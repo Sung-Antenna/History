@@ -1,0 +1,9 @@
+[Hand held devices, Asset trackers] 
+1. PCB layout check and recommedation the best antennas positions - LTE, BT, Wi-Fi and GPS/GNSS. with possible risk check.
+2. Recommendation for the possible embedded antennas first.
+3. If necessary, suggest customized antennas.
+4. Simple Gerber/Step file check & transimission line check are also possible.
+
+[Report Contents] 
+1. CST Simulation result - VSWR, Efficiency, AVG gain, Peak Gain, TRP.
+2. Somthing upon requests where possible.
