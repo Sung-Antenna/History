@@ -121,6 +121,21 @@ export default function EmbeddedAntennas() {
               <h3 className="text-xl font-semibold text-gray-800 text-center">[LTE700] PCB Layout</h3>
             </div>
           </div>
+
+          {/* Fourth Row - 1g */}
+          <div className="bg-white rounded-lg shadow-md p-6">
+            <div className="space-y-4">
+              <Image
+                src="/images/1g. [LTE700] PCB Layout.png"
+                alt="LTE700 PCB Layout"
+                width={500}
+                height={400}
+                className="rounded-lg w-full"
+              />
+              <h3 className="text-xl font-semibold text-gray-800 text-center">[LTE700] PCB Layout</h3>
+            </div>
+          </div>
+          
         </div>
       </div>
     </div>
