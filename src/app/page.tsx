@@ -104,7 +104,7 @@ export default function Home() {
           </div>
         </section>
 
-        {/* Antenna Service Request Section */}
+        {/* Questions... Section */}
         <section className="mb-16">
           <Link href="/service-request" className="group">
             <div className="bg-white rounded-lg shadow-md p-8 transition-all duration-300 hover:shadow-lg hover:scale-[1.01]">
