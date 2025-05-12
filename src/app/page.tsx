@@ -108,7 +108,7 @@ export default function Home() {
         <section className="mb-16">
           <Link href="/service-request" className="group">
             <div className="bg-white rounded-lg shadow-md p-8 transition-all duration-300 hover:shadow-lg hover:scale-[1.01]">
-              <h2 className="text-2xl font-bold text-gray-800 group-hover:text-blue-600 mb-2">Antenna Service Request</h2>
+              <h2 className="text-2xl font-bold text-gray-800 group-hover:text-blue-600 mb-2">Questions...</h2>
               <p className="text-gray-600 mb-4">
                 My experience includes a history of designing various LTE embedded antennas. from LTE700, LTE600 to LTE450 recently. For inquiries, please feel free to reach out to seoulbea@gmail.com
               </p>
