@@ -122,23 +122,24 @@ export default function EmbeddedAntennas() {
             </div>
           </div>
 
-          {/* Fourth Row - 1g */}
-          <div className="bg-white rounded-lg shadow-md p-6">
+          {/* Fourth Row - H450A Flagship Project */}
+          <div className="bg-white rounded-lg shadow-md p-6 border-2 border-blue-100">
             <div className="space-y-4">
               <Image
-                src="/images/1g. [LTE700] PCB Layout.png"
-                alt="LTE700 PCB Layout"
+                src="/My data/1g. S450_standalone.png"
+                alt="H450A LTE 450MHz Antenna"
                 width={500}
                 height={400}
-                className="rounded-lg w-full"
+                className="rounded-lg w-full object-contain"
               />
-              <h3 className="text-xl font-semibold text-gray-800 text-center">[LTE700] PCB Layout</h3>
+              <div className="text-center">
+                <h3 className="text-xl font-bold text-blue-900">[H450A] Master Board</h3>
+                <p className="text-sm text-gray-600 mt-2">
+                  LTE 450MHz Wide-band (450MHz - 3.8GHz)
+                </p>
+                <p className="text-xs text-gray-500 italic">
+                  Integrated BT, LPWA, GNSS & Wi-Fi Solutions
+                </p>
+              </div>
             </div>
           </div>
-
-          
-        </div>
-      </div>
-    </div>
-  );
-} 
