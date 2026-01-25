@@ -126,15 +126,16 @@ export default function EmbeddedAntennas() {
           <div className="bg-white rounded-lg shadow-md p-6">
             <div className="space-y-4">
               <Image
-                src="/images/1g. [LTE700] PCB Layout.png"
+                src="/images/1g. S450_standalone.png"
                 alt="LTE700 PCB Layout"
                 width={500}
                 height={400}
                 className="rounded-lg w-full"
               />
-              <h3 className="text-xl font-semibold text-gray-800 text-center">[LTE700] PCB Layout</h3>
+              <h3 className="text-xl font-semibold text-gray-800 text-center">[LTE450] Standalone</h3>
             </div>
           </div>
+
           
         </div>
       </div>
