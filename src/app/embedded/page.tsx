@@ -126,7 +126,7 @@ export default function EmbeddedAntennas() {
           <div className="bg-white rounded-lg shadow-md p-6">
             <div className="space-y-4">
               <Image
-                src="/My data/1g. S450_standalone.png"
+                src="/My data/1g_S450_standalone.png"
                 alt="S450 Standalone"
                 width={500}
                 height={400}
