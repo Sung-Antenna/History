@@ -46,6 +46,7 @@
 - **1화 "The Day Kim Arrived"** (15초): 평화롭게 차 마시던 Habiba와 Chakilita 앞에 Zouitina가 Kim을 데려옴 → Kim이 한국어로 "안녕하세요, 어머님!" → Habiba 충격으로 정지. Chakilita 내레이션 «ومن تما… بدات الحكاية!»
 
 ## 만든 것
+- **공식 포스터 v1**: `4cats/poster_v1.png` (모로코 아치 프레임, 왼쪽 하산 2세 모스크 + 오른쪽 경복궁, 앞줄 Chakilita·Habiba·Zouitina·로봇·Kim, Zouitina와 Kim이 함께 로봇 머리에 손을 얹음)
 - عائلة حبيبة 트레일러 1차본 (Manus 영상 3개 + 인트로, 1분 33초)
 - 트레일러 대본 수정본: `4cats_trailer_script.md` (보류 중. Kim이 영어로 말하는 구버전이라 다시 쓸 때 한국어로 바꿔야 함)
 - 4 Cats Cheers! 점프 소개 영상 (14.5초, 세로)
