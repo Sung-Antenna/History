@@ -8,13 +8,39 @@
   "ending": true,
   "nextTeaserAr": "الحلقة الجاية: العريس الكوري فدار حبيبة!",
   "nextTeaserKo": "다음 화: 하비바네 집의 한국인 사위!",
-  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
+  "subtitles": {
+    "bottom": 430,
+    "showSpeaker": true,
+    "showTranslation": true
+  },
   "cues": [
-    { "from": 7.85, "to": 10.5, "speaker": "kim",
+    {
+      "from": 0.1,
+      "to": 4.65,
+      "speaker": "chakilita",
+      "text": "واحد النهار، كنا جالسين أنا وماما حبيبة هانيين، كنشربو أتاي…",
+      "translation": "어느 날, 저랑 엄마 하비바는 편안하게 앉아 차를 마시고 있었어요…"
+    },
+    {
+      "from": 5.55,
+      "to": 7.55,
+      "speaker": "zouitina",
+      "text": "ماما، شوفي شكون جبت ليك!",
+      "translation": "엄마, 내가 누굴 데려왔는지 봐요!"
+    },
+    {
+      "from": 7.85,
+      "to": 10.5,
+      "speaker": "kim",
       "text": "안녕하세요, 어머님! 만나서 반갑습니다!",
-      "translation": "السلام آ ماما! متشرف بمعرفتك!" },
-    { "from": 12.0, "to": 14.45, "speaker": "chakilita",
+      "translation": "السلام آ ماما! متشرف بمعرفتك!"
+    },
+    {
+      "from": 12.0,
+      "to": 14.45,
+      "speaker": "chakilita",
       "text": "ومن تما… بدات الحكاية!",
-      "translation": "그리고 그때부터… 이야기가 시작됐죠!" }
+      "translation": "그리고 그때부터… 이야기가 시작됐죠!"
+    }
   ]
 }

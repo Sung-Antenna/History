@@ -81,6 +81,7 @@ LANGUAGE RULES: Chakilita, Habiba and Zouitina speak Moroccan Darija only. Kim s
 ### ✅ 1화 "The Day Kim Arrived" (완성, 16초)
 차 마시던 Habiba와 Chakilita 앞에 Zouitina가 Kim을 데려옴 → Kim이 갓을 벗고 «안녕하세요, 어머님! 만나서 반갑습니다!» → Habiba 찻잔이 넘침 → Chakilita «ومن تما… بدات الحكاية!» → Habiba 충격 정지.
 편집: 원본 0~4.75초 + 새 Kim으로 다시 만든 10초 + 원본 마지막 Habiba 정지 1초.
+대사 (자막용): Chakilita «واحد النهار، كنا جالسين أنا وماما حبيبة هانيين، كنشربو أتاي…» → Zouitina «ماما، شوفي شكون جبت ليك!» → Kim «안녕하세요, 어머님! 만나서 반갑습니다!» → Chakilita (보이스오버) «ومن تما… بدات الحكاية!»
 
 ### 🟡 2화 «العريس الكوري فدار حبيبة» (프롬프트 준비 완료, 미제작)
 ```
