@@ -1,0 +1,32 @@
+{
+  "number": 3,
+  "titleAr": "قوانين الدار",
+  "titleKo": "집안의 규칙",
+  "video": "episodes/ep3.mp4",
+  "videoSeconds": 16.125,
+  "opening": "card",
+  "ending": true,
+  "nextTeaserAr": "الحلقة الجاية: الروبو ديال كيم!",
+  "nextTeaserKo": "다음 화: 킴의 로봇!",
+  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
+  "cues": [
+    { "from": 0.15, "to": 4.45, "speaker": "chakilita",
+      "text": "من نهار دخل كيم لدارنا، ماما بغات تعلّمو القوانين… والمشكل؟ ما فاهم والو!",
+      "translation": "킴이 우리 집에 온 날부터 엄마는 규칙을 가르치려 했죠… 문제는? 하나도 못 알아들어요!" },
+    { "from": 4.7, "to": 6.95, "speaker": "habiba",
+      "text": "القانون الأول: ممنوع الاختراعات فالدار!",
+      "translation": "규칙 1번: 집에서 발명 금지!" },
+    { "from": 6.95, "to": 8.2, "speaker": "kim",
+      "text": "네! 알겠습니다!",
+      "translation": "إيه! فهمت!" },
+    { "from": 8.45, "to": 9.95, "speaker": "habiba",
+      "text": "آش قلت ليك أنا دابا؟!",
+      "translation": "내가 방금 뭐라고 했어?!" },
+    { "from": 10.1, "to": 11.1, "speaker": "kim",
+      "text": "무슨 일이에요?",
+      "translation": "آش واقع؟" },
+    { "from": 11.2, "to": 14.9, "speaker": "chakilita",
+      "text": "ماما بالدارجة، كيم بالكورية… وأنا خاصني مترجم ولا طبيب!",
+      "translation": "엄마는 다리자, 킴은 한국어… 난 통역사가 필요해요, 아니면 의사가!" }
+  ]
+}

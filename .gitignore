@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# 4cats video project: dependencies, renders and source episode clips (large binaries)
+/4cats/remotion/node_modules
+/4cats/remotion/out
+/4cats/remotion/public/episodes/*.mp4

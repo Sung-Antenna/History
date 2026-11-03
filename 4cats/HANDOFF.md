@@ -188,3 +188,10 @@ ffmpeg -i in.mp4 -vf "select='gt(scene,0.3)',showinfo" -f null - 2>&1 | grep -o 
 | `reference/cast_lineup.png` | 포스터 속 네 가족 + 로봇 나란히 |
 | `../4cats_series_notes.md` | 시리즈 메모 |
 | `../4cats_trailer_script.md` | 90초 트레일러 대본 (보류) |
+
+---
+
+## 9. 오프닝·자막·엔딩 템플릿 (Remotion)
+
+`4cats/remotion/` — Manus 영상에 2초 오프닝 카드, 화자별 이중 자막(다리자↔한국어), 3초 엔딩 카드를 입혀 1080×1920 MP4로 내보낸다.
+사용법은 `4cats/remotion/README.md`. 3화 적용 예시 데이터는 `4cats/remotion/episodes/ep3.json`.
