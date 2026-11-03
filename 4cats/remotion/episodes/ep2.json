@@ -1,0 +1,29 @@
+{
+  "number": 2,
+  "titleAr": "العريس الكوري فدار حبيبة",
+  "titleKo": "하비바네 집의 한국인 사위",
+  "video": "episodes/ep2.mp4",
+  "videoSeconds": 15.083,
+  "opening": "card",
+  "ending": true,
+  "nextTeaserAr": "الحلقة الجاية: قوانين الدار!",
+  "nextTeaserKo": "다음 화: 집안의 규칙!",
+  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
+  "cues": [
+    { "from": 0.1, "to": 4.0, "speaker": "chakilita",
+      "text": "أنا شكيليطة… واليوم ماما حبيبة غادي تعرف شنو معنى العريس الكوري!",
+      "translation": "저는 샤킬리타… 오늘 엄마는 '한국인 사위'가 뭔지 알게 될 거예요!" },
+    { "from": 4.1, "to": 5.8, "speaker": "zouitina",
+      "text": "ماما، هادا راجلي كيم!",
+      "translation": "엄마, 이 사람이 내 남편 킴이에요!" },
+    { "from": 6.05, "to": 8.15, "speaker": "kim",
+      "text": "장모님, 잘 부탁드립니다!",
+      "translation": "حماتي العزيزة، تشرفنا!" },
+    { "from": 8.3, "to": 10.4, "speaker": "habiba",
+      "text": "واش جبتي ليا صهر ولا مصيبة؟!",
+      "translation": "사위를 데려온 거니, 재앙을 데려온 거니?!" },
+    { "from": 11.9, "to": 13.35, "speaker": "chakilita",
+      "text": "وباقي غير البداية… الله يستر!",
+      "translation": "이제 겨우 시작이에요… 신이시여, 지켜 주소서!" }
+  ]
+}
