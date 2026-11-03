@@ -1,0 +1,20 @@
+{
+  "number": 1,
+  "titleAr": "النهار اللي جا فيه كيم",
+  "titleKo": "킴이 온 날",
+  "video": "episodes/ep1.mp4",
+  "videoSeconds": 15.961,
+  "opening": "card",
+  "ending": true,
+  "nextTeaserAr": "الحلقة الجاية: العريس الكوري فدار حبيبة!",
+  "nextTeaserKo": "다음 화: 하비바네 집의 한국인 사위!",
+  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
+  "cues": [
+    { "from": 7.85, "to": 10.5, "speaker": "kim",
+      "text": "안녕하세요, 어머님! 만나서 반갑습니다!",
+      "translation": "السلام آ ماما! متشرف بمعرفتك!" },
+    { "from": 12.0, "to": 14.45, "speaker": "chakilita",
+      "text": "ومن تما… بدات الحكاية!",
+      "translation": "그리고 그때부터… 이야기가 시작됐죠!" }
+  ]
+}
