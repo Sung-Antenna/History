@@ -1,0 +1,53 @@
+{
+  "number": 5,
+  "titleAr": "كيم والكسكس المغربي",
+  "titleKo": "킴과 모로코 쿠스쿠스",
+  "video": "episodes/ep5.mp4",
+  "videoSeconds": 15.104,
+  "opening": "card",
+  "ending": true,
+  "nextTeaserAr": "",
+  "nextTeaserKo": "",
+  "subtitles": {
+    "bottom": 430,
+    "showSpeaker": true,
+    "showTranslation": true
+  },
+  "cues": [
+    {
+      "from": 0.05,
+      "to": 3.05,
+      "speaker": "chakilita",
+      "text": "ماما بغات تعلّم كيم يطيب الكسكس… يا ربي السلامة!",
+      "translation": "엄마가 킴한테 쿠스쿠스를 가르친대요… 제발 무사하길!"
+    },
+    {
+      "from": 3.1,
+      "to": 4.5,
+      "speaker": "habiba",
+      "text": "كيم، عاونّي فالكسكس!",
+      "translation": "킴, 쿠스쿠스 좀 도와줘!"
+    },
+    {
+      "from": 4.75,
+      "to": 7.15,
+      "speaker": "kim",
+      "text": "금방 맛있는 쿠스쿠스가 완성될 거예요!",
+      "translation": "دغيا غادي يوجد كسكس بنين!"
+    },
+    {
+      "from": 9.3,
+      "to": 11.15,
+      "speaker": "habiba",
+      "text": "واش كتطيب ولا كتقصف فينا؟!",
+      "translation": "요리하는 거야, 폭격하는 거야?!"
+    },
+    {
+      "from": 11.35,
+      "to": 14.95,
+      "speaker": "chakilita",
+      "text": "هادا أول كسكس فالتاريخ كيتاكل بالعين قبل الفم!",
+      "translation": "역사상 처음으로 입보다 눈으로 먼저 먹는 쿠스쿠스예요!"
+    }
+  ]
+}

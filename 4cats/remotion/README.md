@@ -11,7 +11,7 @@ Manus로 만든 15초 에피소드에 **오프닝 카드 → 자막 → 엔딩 �
    - `videoSeconds`: 영상 길이(초). `ffprobe -show_entries format=duration epN.mp4`로 확인
    - `opening`: `"card"`(영상 앞 2초 타이틀 카드) · `"overlay"`(영상 위 상단 배너, 첫 장면이 바로 시작) · `"none"`
    - `ending`: `true`면 3초 «يتبع… / 다음 화에 계속» 카드
-   - `nextTeaserAr`, `nextTeaserKo`: 엔딩의 다음 화 예고 (빼도 됨)
+   - `nextTeaserAr`, `nextTeaserKo`: 엔딩의 다음 화 예고. 예고가 없으면 키를 지우지 말고 `""`로 둡니다 (지우면 예시 에피소드의 예고가 대신 들어감)
    - `cues`: 대사 자막. `from`/`to`는 영상 기준 초, `speaker`는 `habiba` `chakilita` `zouitina` `kim` `robot` `attendant`(때밀이)
      - `text`: 실제 대사 (다리자 또는 Kim의 한국어)
      - `translation`: 아래 작은 줄 (다리자 대사 → 한국어, Kim 대사 → 다리자)

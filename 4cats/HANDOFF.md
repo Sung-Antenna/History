@@ -201,4 +201,10 @@ ffmpeg -i in.mp4 -vf "select='gt(scene,0.3)',showinfo" -f null - 2>&1 | grep -o 
 Chakilita «كيم قرر يجرب الحمّام المغربي… وما كانش عارف شنو كيتسناه!» → 때밀이 «وجد راسك آ خويا!» → Kim «아이고! 너무 아파요! 살살 해주세요!» → Kim (젤라바) «다시는 목욕탕에 안 올 거예요!» → Chakilita «بغا يتعرف على الثقافة المغربية… تعرّف على الكيس الأول!»
 새 캐릭터: 함맘 때밀이(الكسّال, 짙은 갈색 덩치 큰 고양이, 케사 장갑). 자막 데이터 `4cats/remotion/episodes/ep4.json`.
 
-### 🟡 5화 "Kim and Moroccan Couscous" (예고만, 미제작)
+### ✅ 5화 «كيم والكسكس المغربي» / "킴과 모로코 쿠스쿠스" (완성, 15.1초)
+프롬프트 `4cats/prompts/ep5_couscous.txt`, 참조 보드 `reference/board_couscous_cast.jpg`, 자막 `remotion/episodes/ep5.json`.
+결과: 프롬프트에서 "로봇 무시"라고 했는데도 로봇이 나와 쿠스쿠스를 뿜는 기계 역할을 함 (참조 보드에 로봇이 있으면 등장할 수 있음).
+
+### 🟡 6화 (미정)
+- **표정 지침 (사용자 요청):** Habiba와 Chakilita가 너무 자주 얼굴을 찡그림 → 6화부터 더 평화롭고 부드러운 표정으로. 프롬프트에 예: "Habiba and Chakilita keep warm, gentle, relaxed faces; no scowling, no gritted teeth, no furrowed brows. Their comedy comes from calm, amused or politely surprised reactions." 
+- 6화 엔딩에는 다음 화 예고를 넣지 않는다.
