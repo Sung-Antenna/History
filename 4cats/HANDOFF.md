@@ -207,4 +207,4 @@ Chakilita «كيم قرر يجرب الحمّام المغربي… وما كا�
 
 ### 🟡 6화 (미정)
 - **표정 지침 (사용자 요청):** Habiba와 Chakilita가 너무 자주 얼굴을 찡그림 → 6화부터 더 평화롭고 부드러운 표정으로. 프롬프트에 예: "Habiba and Chakilita keep warm, gentle, relaxed faces; no scowling, no gritted teeth, no furrowed brows. Their comedy comes from calm, amused or politely surprised reactions." 
-- 6화 엔딩에는 다음 화 예고를 넣지 않는다.
+- 5화 엔딩에는 6화 예고를 넣지 않았다 (사용자 요청).
