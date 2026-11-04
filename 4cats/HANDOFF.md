@@ -196,3 +196,9 @@ ffmpeg -i in.mp4 -vf "select='gt(scene,0.3)',showinfo" -f null - 2>&1 | grep -o 
 
 `4cats/remotion/` — Manus 영상에 2초 오프닝 카드, 화자별 이중 자막(다리자↔한국어), 3초 엔딩 카드를 입혀 1080×1920 MP4로 내보낸다.
 사용법은 `4cats/remotion/README.md`. 3화 적용 예시 데이터는 `4cats/remotion/episodes/ep3.json`.
+
+### ✅ 4화 «الحمّام» / "함맘" (완성, 16.6초)
+Chakilita «كيم قرر يجرب الحمّام المغربي… وما كانش عارف شنو كيتسناه!» → 때밀이 «وجد راسك آ خويا!» → Kim «아이고! 너무 아파요! 살살 해주세요!» → Kim (젤라바) «다시는 목욕탕에 안 올 거예요!» → Chakilita «بغا يتعرف على الثقافة المغربية… تعرّف على الكيس الأول!»
+새 캐릭터: 함맘 때밀이(الكسّال, 짙은 갈색 덩치 큰 고양이, 케사 장갑). 자막 데이터 `4cats/remotion/episodes/ep4.json`.
+
+### 🟡 5화 "Kim and Moroccan Couscous" (예고만, 미제작)

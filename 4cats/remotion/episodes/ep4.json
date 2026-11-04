@@ -8,6 +8,46 @@
   "ending": true,
   "nextTeaserAr": "الحلقة الجاية: الكسكس!",
   "nextTeaserKo": "다음 화: 꾸스꾸스!",
-  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
-  "cues": []
+  "subtitles": {
+    "bottom": 430,
+    "showSpeaker": true,
+    "showTranslation": true
+  },
+  "cues": [
+    {
+      "from": 0.1,
+      "to": 3.75,
+      "speaker": "chakilita",
+      "text": "كيم قرر يجرب الحمّام المغربي… وما كانش عارف شنو كيتسناه!",
+      "translation": "킴은 모로코 함맘에 가 보기로 했어요… 무슨 일이 기다리는지도 모르고!"
+    },
+    {
+      "from": 5.1,
+      "to": 6.55,
+      "speaker": "attendant",
+      "text": "وجد راسك آ خويا!",
+      "translation": "준비하쇼, 형씨!"
+    },
+    {
+      "from": 6.6,
+      "to": 9.45,
+      "speaker": "kim",
+      "text": "아이고! 너무 아파요! 살살 해주세요!",
+      "translation": "آيي! كيوجعني بزاف! بشوية عافاك!"
+    },
+    {
+      "from": 9.6,
+      "to": 11.4,
+      "speaker": "kim",
+      "text": "다시는 목욕탕에 안 올 거예요!",
+      "translation": "عمّرني نرجع للحمّام!"
+    },
+    {
+      "from": 11.7,
+      "to": 16.4,
+      "speaker": "chakilita",
+      "text": "بغا يتعرف على الثقافة المغربية… تعرّف على الكيس الأول!",
+      "translation": "모로코 문화를 알고 싶어 했는데… 때밀이 장갑부터 알게 됐죠!"
+    }
+  ]
 }
