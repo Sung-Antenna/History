@@ -1,0 +1,43 @@
+Generate exactly ONE video from the prompt below. Do not write a script, do not research, do not review, do not create extra files.
+
+The attached image is a REFERENCE BOARD. It is NOT a scene and must NEVER appear in the video:
+- LEFT half = a living room. It is NOT the location of this episode. Ignore it.
+- RIGHT half = the four characters standing side by side, showing their correct faces, outfits and SIZES. From left to right: CHAKILITA (pink takchita), HABIBA (red kaftan), ZOUITINA (green kaftan), KIM (Korean gat hat and blue hanbok).
+- The small white robot is NOT in this episode. Do not show it anywhere. Ignore the outdoor background too.
+
+LOCATION: ONE location only — the open-air courtyard of a traditional Moroccan family house (riad) on the morning of Eid al-Adha: a zellige-tiled fountain in the center, carved arches, potted orange trees, festive lanterns, soft warm morning sunlight, a clay charcoal brazier with a teapot nearby. No other locations.
+
+ALL FOUR CHARACTERS ARE ADULTS of about the SAME HEIGHT. Zouitina is an adult married woman, NOT a child. Kim is an adult man, slightly taller than the women, NOT a child or a kitten.
+
+Vertical 9:16, exactly 15 seconds, full frame with no black bars. Pixar-style 3D animated family comedy, gentle and warm, smooth animation, accurate lip-sync. No subtitles, captions, titles, logos, watermarks or on-screen text.
+
+CHARACTERS (identical in every shot, no one else appears):
+- CHAKILITA (narrator, eldest daughter): adult female orange cat, long light-brown hair, GREEN eyes, round glasses, pink sequined takchita. Calm, witty, sarcastic.
+- HABIBA (the mother): adult chubby orange female cat, long wavy black hair, BROWN eyes, black round glasses, gold forehead jewelry, deep-red velvet kaftan with gold embroidery. Warm and loving today.
+- ZOUITINA (youngest daughter, Kim's wife, adult): big curly auburn hair, BROWN eyes, gold earrings, emerald-green kaftan with a gold belt.
+- KIM (Korean son-in-law): ADULT male orange tabby cat, chubby, mature face, tabby stripes on forehead, AMBER-GOLD eyes, black Korean gat hat with a peacock feather and a long colorful bead gat strap, bright blue hanbok jacket with a red ribbon, beige baggy trousers, white socks, black shoes. NO necklace. The gat stays on his head in every shot. He holds a small camera.
+- THE SHEEP: one fluffy, clean, healthy white Moroccan sheep with small curled horns, calm and cute.
+
+EXPRESSIONS: Habiba, Chakilita and Zouitina keep warm, gentle, relaxed faces the whole time: no scowling, no gritted teeth, no furrowed brows, no shouting. Their comedy comes from calm, amused or politely surprised reactions. Only Kim is dramatic.
+
+RESPECT AND SAFETY: this is a respectful, family-friendly celebration of Eid al-Adha. The sacrifice is NEVER shown: no knife, no blood, no injury, no butcher, no animal in distress. The sheep is only seen calm and healthy, and simply walks out of frame.
+
+PRONUNCIATION: «العيد الكبير» (the Moroccan name for Eid al-Adha) is pronounced "el-EED el-k-BEER".
+
+SCENE 1 (0-3s): Chakilita stands in the festive courtyard and looks straight at the camera with a calm, knowing smile.
+CHAKILITA (Moroccan Darija): «أول عيد كبير ديال كيم فالمغرب… الله يكون فعونو!»
+
+SCENE 2 (3-7s): The sheep stands calmly by the fountain. Kim curiously films it with his small camera, then turns to Habiba.
+KIM (Korean only): «오늘 양을 어떻게 하는 거예요?»
+Habiba, pouring mint tea by the brazier, answers with a warm, gentle smile.
+HABIBA (Moroccan Darija): «اليوم العيد الكبير آ ولدي… هادي عادتنا!»
+
+SCENE 3 (7-10s): The sheep calmly trots away through an arch and out of frame; we only see its fluffy tail disappear. Kim suddenly understands: he spins around, covers his eyes with both paws and trembles comically, his gat hat wobbling.
+KIM (Korean only): «아이고! 저는 못 보겠어요!»
+
+SCENE 4 (10-15s): One single shot. Chakilita stands calmly in the foreground and looks straight at the camera with a relaxed, deadpan face.
+CHAKILITA (Moroccan Darija): «كيم جا يشوف العيد المغربي… دابا خاصنا نشوفو ليه شي طبيب نفسي!»
+In the background, Kim hides behind Zouitina and peeks between his fingers at the brazier, where skewers of grilled meat sizzle. Zouitina looks back at him and gently shakes her head with an amused smile.
+LAST SECOND: hold on Chakilita's calm deadpan face, with a light festive Moroccan musical sting.
+
+LANGUAGE RULES: Chakilita and Habiba speak Moroccan Darija only. Zouitina says nothing. Kim speaks Korean only and does not understand Darija. Never make Kim speak Darija, Arabic or English. Do not translate Kim's lines. The sheep is silent except one soft "baa". No extra dialogue.
