@@ -212,3 +212,26 @@ Chakilita «كيم قرر يجرب الحمّام المغربي… وما كا�
 이드(희생제) 6화는 피 관련 내용이라 폐기하고 교체함. 프롬프트 `4cats/prompts/ep6_darija_exam.txt`.
 - **표정 지침 (사용자 요청):** Habiba와 Chakilita가 너무 자주 얼굴을 찡그림 → 6화부터 더 평화롭고 부드러운 표정으로. 프롬프트에 예: "Habiba and Chakilita keep warm, gentle, relaxed faces; no scowling, no gritted teeth, no furrowed brows. Their comedy comes from calm, amused or politely surprised reactions." 
 - 5화 엔딩에는 6화 예고를 넣지 않았다 (사용자 요청).
+
+---
+
+## 10. 한국 가족 (새 캐릭터, Kim의 가족)
+
+ChatGPT로 실제 가족 사진을 바탕으로 만든 캐릭터. 이름은 일단 호칭으로 부른다. 실제 사진은 개인 사진이라 저장소에 올리지 않음.
+이미지: `4cats/characters/korean_family/` (eomeoni.png, nuna.png, keunhyeong_hyeongsu.jpg), 한 장 보드: `4cats/reference/korean_family_lineup.jpg`
+(보드는 이미지 높이만 맞춘 것이라 실제 키 비율과 다를 수 있음 → 프롬프트에 키를 글로 적을 것)
+
+| 호칭 | 관계 | 외모 | 한복 |
+|---|---|---|---|
+| 어머니 | Kim의 어머니 | 나이 든 주황 줄무늬 고양이, 입가·볼에 은빛 털, 짙은 갈색 눈, 은빛 섞인 머리를 쪽머리로, 파란 꽃 장식 은비녀, 진주 장식 하늘색 꽃무늬 스카프. 다른 여성보다 약간 작고 통통함 | 청보라 저고리 + 남색 치마(밑단 기하학 무늬), 남색 꽃신 |
+| 누나 | Kim의 누나 | 주황 줄무늬 고양이, 짙은 갈색 눈, 옆으로 넘긴 앞머리의 검은 웨이브 반묶음 머리, 금·보라 꽃 머리핀, 보라 아이섀도·마젠타 입술, 보라 꽃 크리스탈 귀걸이 | 자홍 시스루 저고리(연꽃·하늘색 꽃 자수) + 보라 고름 + 짙은 보라 치마, 분홍 꽃신 |
+| 큰형 | Kim의 큰형 | 주황 줄무늬 고양이, 짙은 갈색 눈, 관자놀이가 흰 짧은 머리, 둥근 금속테 안경, 차분한 미소. 모자 없음 | 자줏빛 꽃무늬 저고리 + 남색 조끼 + 발목 묶은 회색 바지, 검은 신 |
+| 큰 형수님 | 큰형의 아내 | 주황 고양이, 갈색 눈, 옆으로 넘긴 앞머리의 갈색 생머리 단발, 밝은 미소 | 겨자색 꽃무늬 저고리 + 갈색 고름 + 초콜릿색 꽃무늬 치마, 갈색 꽃신 |
+
+Manus 프롬프트용 영어 묘사:
+- MOTHER (Kim's mother, Korean grandmother): elderly female orange tabby cat, silver-white fur on muzzle and cheeks, DARK-BROWN eyes, dark hair with silver strands in a low chignon bun with a silver binyeo hairpin (blue flower end), pale-blue floral silk scarf with pearl edge, periwinkle-blue jeogori, navy chima with a light-blue geometric hem. Slightly shorter and rounder than the other women.
+- NUNA (Kim's older sister): adult female orange tabby cat, DARK-BROWN eyes, glossy black half-up curly hair with side-swept bangs and a gold-and-purple flower hairpin, lilac eyeshadow, magenta lips, purple crystal flower drop earrings, sheer fuchsia jeogori with floral embroidery, deep-purple goreum, deep-violet chima, pink kkotsin.
+- ELDEST BROTHER (Kim's eldest brother): adult male orange tabby cat, DARK-BROWN eyes, short dark hair gray at the temples, thin round metal-framed glasses, wine-red floral jeogori, dark navy jokki vest, charcoal-gray baji tied at the ankles, black shoes. No hat.
+- SISTER-IN-LAW (eldest brother's wife): adult female orange cat, BROWN eyes, straight chin-length brown bob with side-swept bangs, mustard-gold floral jeogori, chocolate-brown goreum, chocolate-brown floral chima, brown kkotsin.
+
+만든 방법: 실제 사진(왼쪽) + 기존 캐릭터 보드(오른쪽)를 한 장으로 합쳐 ChatGPT에 첨부. 수정이 필요하면 "Keep the character exactly the same… Only change …"로 부분 수정 요청.
