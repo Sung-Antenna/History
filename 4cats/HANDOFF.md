@@ -131,6 +131,10 @@ LAST SHOT (inside the living room): freeze-frame of Habiba diving through the ai
 
 ## 6. 제작 규칙 (실패하면서 알게 된 것)
 
+**표기·내용**
+- Zouitina의 아랍어 표기는 «زويتينة»(ت)로 통일한다 («زويطينة» 아님).
+- 모로코 시청자에게 민감할 수 있는 표현(이민·대탈출 «هجرة» 등)은 피한다. 6화 첫 대사는 "이사 가는 것 같다" «رحيل»로 바꿈.
+
 **참조 이미지**
 - 공식 점프 사진(`official_characters.jpg`)을 영상 참조로 쓰면 **Kim과 Zouitina가 어린이 크기**로 나오고, **마지막 장면에 그 사진이 그대로** 나왔음 → 영상에는 `reference/board_living_room_cast.jpg`를 쓴다.
 - 참조 이미지 첨부가 한 장뿐이면, 장면 사진과 캐릭터 사진을 **한 장으로 합쳐** 올리고 프롬프트에 "LEFT = setting, RIGHT = characters"로 설명한다. 합친 이미지에 글자 라벨은 넣지 않는다 (영상에 글자가 그려짐).
@@ -235,3 +239,6 @@ Manus 프롬프트용 영어 묘사:
 - SISTER-IN-LAW (eldest brother's wife): adult female orange cat, BROWN eyes, straight chin-length brown bob with side-swept bangs, mustard-gold floral jeogori, chocolate-brown goreum, chocolate-brown floral chima, brown kkotsin.
 
 만든 방법: 실제 사진(왼쪽) + 기존 캐릭터 보드(오른쪽)를 한 장으로 합쳐 ChatGPT에 첨부. 수정이 필요하면 "Keep the character exactly the same… Only change …"로 부분 수정 요청.
+
+### 🟡 6화 «عائلة حبيبة تستعد للسفر» / 한국 갈 준비 (프롬프트 준비, 미제작)
+프롬프트 `4cats/prompts/ep6_travel_korea.txt`. 다음 화에서 한국 가족(10장)과 만나는 이야기로 이어짐. (이전 6화 후보: 이드 편은 폐기, 다리자 시험 편은 보류)
