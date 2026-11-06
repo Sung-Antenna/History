@@ -1,0 +1,42 @@
+Generate exactly ONE video from the prompt below. Do not write a script, do not research, do not review, do not create extra files.
+
+The attached image is a REFERENCE BOARD. It is NOT a scene and must NEVER appear in the video:
+- LEFT half = the setting: this exact Moroccan living room (red sofas with cushions, chandelier, arched window, lanterns, coffee table with mint tea). Use it as the location, in daylight.
+- RIGHT half = the four characters standing side by side, showing their correct faces, outfits and SIZES. From left to right: CHAKILITA (pink takchita), HABIBA (red kaftan), ZOUITINA (green kaftan), KIM (Korean gat hat and blue hanbok).
+- The small white robot is NOT in this episode. Do not show it anywhere. Ignore the outdoor background.
+
+LOCATION: ONE location only — the living room from the reference. No kitchen, no other rooms, no outdoor scenes.
+
+ALL FOUR CHARACTERS ARE ADULTS of about the SAME HEIGHT. Zouitina is an adult married woman, NOT a child. Kim is an adult man, slightly taller than the women, NOT a child or a kitten.
+
+Vertical 9:16, exactly 15 seconds, full frame with no black bars. Pixar-style 3D animated family comedy, warm and gentle, fast comedic timing, accurate lip-sync. No subtitles, captions, titles, logos, watermarks or on-screen text — also no text on the exam paper or on the device screen.
+
+CHARACTERS (identical in every shot, no one else appears):
+- CHAKILITA (narrator, eldest daughter): adult female orange cat, long light-brown hair, GREEN eyes, round glasses, pink sequined takchita. Calm, witty, sarcastic.
+- HABIBA (the mother): adult chubby orange female cat, long wavy black hair, BROWN eyes, black round glasses, gold forehead jewelry, deep-red velvet kaftan with gold embroidery. Playing a strict teacher, but loving.
+- ZOUITINA (youngest daughter, Kim's wife, adult, only in Scene 4): big curly auburn hair, BROWN eyes, gold earrings, emerald-green kaftan with a gold belt.
+- KIM (Korean son-in-law, inventor): ADULT male orange tabby cat, chubby, mature face, tabby stripes on forehead, AMBER-GOLD eyes, black Korean gat hat with a peacock feather and a long colorful bead gat strap, bright blue hanbok jacket with a red ribbon, beige baggy trousers, white socks, black shoes. NO necklace. The gat stays on his head in every shot.
+- THE TRANSLATOR: a small handheld gadget Kim invented, with blinking colored lights and a tiny antenna. It only makes funny electronic beeps, never a human voice.
+
+EXPRESSIONS: Habiba, Chakilita and Zouitina keep warm, gentle, relaxed faces: no scowling, no gritted teeth, no furrowed brows, no shouting. Their comedy comes from calm, amused or politely surprised reactions. Only Kim is dramatic.
+
+PRONUNCIATION: «الخبز» = "l-KHOBZ" (bread). «المخدة» = "l-m-KHED-da" (pillow). «الدارجة» = "ed-DA-ri-ja".
+
+SCENE 1 (0-3.5s): Chakilita in the living room looks straight at the camera with a calm, knowing smile.
+CHAKILITA (Moroccan Darija): «اليوم ماما دايرة لكيم امتحان فالدارجة… وأنا كنظن خاصو شهادة طبية!»
+
+SCENE 2 (3.5-7.5s): Habiba sits on the sofa facing Kim, holding a blank sheet of paper like a strict but kind teacher, glasses low on her nose.
+HABIBA (Moroccan Darija): «كيم، إلا قلت ليك جيب ليا الخبز… شنو غادي تدير؟»
+Kim holds up his little translator; it beeps and blinks. He smiles proudly and confidently.
+KIM (Korean only): «네! 금방 가져올게요!»
+
+SCENE 3 (7.5-11s): Kim hurries to the other sofa and proudly comes back holding a big embroidered sofa cushion with both paws, presenting it to Habiba like a treasure. Habiba looks at the cushion, then at Kim, with a calm, amused, half-smiling disbelief.
+HABIBA (Moroccan Darija, gently): «قلت ليك الخبز… ماشي المخدة!»
+Kim looks at the cushion, then at the beeping translator, totally confused.
+
+SCENE 4 (11-15s): One single shot. Chakilita stands calmly in the foreground and looks straight at the camera with a relaxed, deadpan face.
+CHAKILITA (Moroccan Darija): «هادشي ماشي امتحان فالدارجة… هادا امتحان فالصبر ديال ماما!»
+In the background, Habiba calmly takes the beeping translator from Kim's paw with a patient smile, while Kim shyly hides behind Zouitina, who smiles at him kindly.
+LAST SECOND: hold on Chakilita's calm deadpan face, with a light playful Moroccan musical sting.
+
+LANGUAGE RULES: Chakilita and Habiba speak Moroccan Darija only. Zouitina says nothing. Kim speaks Korean only and does not understand Darija. Never make Kim speak Darija, Arabic or English. Do not translate Kim's lines. The translator only beeps. No extra dialogue.

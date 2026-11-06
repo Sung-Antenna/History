@@ -208,6 +208,7 @@ Chakilita «كيم قرر يجرب الحمّام المغربي… وما كا�
 **교훈: 다리자 단어는 프롬프트에 발음을 영어로 함께 적는다.**
 결과: 프롬프트에서 "로봇 무시"라고 했는데도 로봇이 나와 쿠스쿠스를 뿜는 기계 역할을 함 (참조 보드에 로봇이 있으면 등장할 수 있음).
 
-### 🟡 6화 (미정)
+### 🟡 6화 «كيم وامتحان الدارجة» / Habiba Tests Kim in Darija (프롬프트 준비, 미제작)
+이드(희생제) 6화는 피 관련 내용이라 폐기하고 교체함. 프롬프트 `4cats/prompts/ep6_darija_exam.txt`.
 - **표정 지침 (사용자 요청):** Habiba와 Chakilita가 너무 자주 얼굴을 찡그림 → 6화부터 더 평화롭고 부드러운 표정으로. 프롬프트에 예: "Habiba and Chakilita keep warm, gentle, relaxed faces; no scowling, no gritted teeth, no furrowed brows. Their comedy comes from calm, amused or politely surprised reactions." 
 - 5화 엔딩에는 6화 예고를 넣지 않았다 (사용자 요청).
