@@ -133,6 +133,7 @@ LAST SHOT (inside the living room): freeze-frame of Habiba diving through the ai
 
 **표기·내용**
 - Zouitina의 아랍어 표기는 «زويتينة»(ت)로 통일한다 («زويطينة» 아님).
+- **6화 첫 생성에서 아랍어 대사를 단어 순서를 거꾸로 읽음** → 다리자 대사는 아랍 문자 대신 발음대로 쓴 라틴 문자(+영어 뜻은 괄호, 읽지 말 것)로 적는다. `prompts/ep6_travel_korea_v2.txt` 참고.
 - 모로코 시청자에게 민감할 수 있는 표현(이민·대탈출 «هجرة» 등)은 피한다. 6화 첫 대사는 "이사 가는 것 같다" «رحيل»로 바꿈.
 
 **참조 이미지**
