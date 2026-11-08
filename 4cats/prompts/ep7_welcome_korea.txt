@@ -1,0 +1,55 @@
+NEW TASK: create a brand-new VIDEO from scratch (moving pictures AND sound together, with lip-synced voices), as one single MP4 file. This is NOT an audio-only task and NOT an edit of a previous video.
+
+Generate exactly ONE video from the prompt below. Do not write a script, do not research, do not review, do not create extra files.
+
+The attached image is a REFERENCE BOARD. It is NOT a scene and must NEVER appear in the video. Copy every character's face, hair, outfit and colors EXACTLY from it. Never swap colors or roles, never merge two characters.
+- LEFT part = HABIBA'S MOROCCAN FAMILY, from left to right: CHAKILITA (pink takchita, glasses), HABIBA (red kaftan, glasses, gold forehead jewel), ZOUITINA (green kaftan, curly auburn hair), KIM (black Korean gat hat, blue hanbok). IGNORE the small robot and the outdoor background: they are NOT in this episode.
+- RIGHT part = KIM'S KOREAN FAMILY, from left to right: KIM'S MOTHER (blue hanbok), KIM'S OLDER SISTER (pink and purple hanbok), KIM'S ELDEST BROTHER'S WIFE (mustard and brown hanbok), KIM'S ELDEST BROTHER (glasses, navy vest).
+
+LOCATION: ONE location only — the bright arrivals hall of a modern Korean airport with warm Korean touches: wooden lattice panels, a small pine tree in a pot, soft paper lanterns. The hall is empty except for the two families. NO readable signs, NO letters (no Korean, Arabic or English writing), NO numbers, NO logos, NO airplanes.
+
+SIZES: ALL characters are ADULTS of about the same height. Kim and his eldest brother are slightly taller than the women. Kim's mother is a little shorter and rounder than the other women. Nobody is a child or a kitten.
+
+Vertical 9:16, exactly 15 seconds, full frame with no black bars. Pixar-style 3D animated family comedy, warm and joyful, clear facial expressions, natural movements, accurate lip-sync. No subtitles, captions, titles, logos, watermarks or on-screen text anywhere.
+
+CHARACTERS (8 in total, identical in every shot, no one else appears):
+HABIBA'S MOROCCAN FAMILY (they speak Moroccan Darija only):
+- CHAKILITA (narrator, eldest daughter): adult female orange cat, long light-brown hair, GREEN eyes, round glasses, pink sequined takchita. Calm, witty, sarcastic.
+- HABIBA (the mother): adult chubby orange female cat, long wavy black hair, BROWN eyes, black round glasses, gold forehead jewelry, deep-red velvet kaftan with gold embroidery. Warm, funny, loves Moroccan tea.
+- ZOUITINA (youngest daughter, Kim's wife): adult, big curly auburn hair, BROWN eyes, gold earrings, emerald-green kaftan with a gold belt. Cheerful.
+- KIM (Korean son-in-law, inventor; speaks Korean only): adult male orange tabby cat, tabby stripes on forehead, AMBER-GOLD eyes, black Korean gat hat with a peacock feather and a long colorful bead gat strap, bright blue hanbok jacket with a red ribbon, beige baggy trousers, black shoes. NO necklace. The gat stays on his head in every shot.
+KIM'S KOREAN FAMILY (they speak Korean only):
+- KIM'S MOTHER: elderly orange tabby cat, silver-white fur on muzzle and cheeks, DARK-BROWN eyes, dark hair with silver strands combed back into a low chignon bun with a silver binyeo hairpin with a small blue flower, a pale-blue floral silk scarf with a pearl edge tied at her neck, periwinkle-blue jeogori, deep navy chima with a light-blue pattern at the hem. Kind grandmother.
+- KIM'S OLDER SISTER: adult orange tabby cat, DARK-BROWN eyes, glossy BLACK half-up curly hair with side-swept bangs and a gold-and-purple flower hairpin, lilac eyeshadow, magenta lips, purple crystal flower drop earrings, sheer fuchsia-pink jeogori with floral embroidery, purple goreum ribbon, deep-violet chima, pink shoes. Glamorous and warm.
+- KIM'S ELDEST BROTHER: adult male orange tabby cat, DARK-BROWN eyes, short dark hair with gray at the temples, thin round metal-framed glasses, wine-red floral jeogori, dark navy jokki vest, charcoal-gray baji tied at the ankles, black shoes. No hat. Calm and polite.
+- THE ELDEST BROTHER'S WIFE: adult orange cat, BROWN eyes, straight chin-length brown bob with side-swept bangs, mustard-gold floral jeogori, chocolate-brown goreum, chocolate-brown floral chima, brown shoes. Sweet and kind.
+
+EXPRESSIONS: everyone is happy, warm and welcoming: big smiles, gentle surprise, no frowning, no anger, no shouting.
+
+HOW TO SPEAK: Darija lines are written in Latin letters exactly as they must be pronounced; Korean lines are written in Korean with the pronunciation. Say every line from the FIRST word to the LAST word in exactly this order; never reverse the word order. The English in brackets is only the meaning and must NOT be spoken.
+
+SCENE 1 (0-3s): Habiba's family has just arrived, pushing luggage trolleys piled high with suitcases; Habiba hugs her silver Moroccan teapot. In front of them, Kim's Korean family stands waiting with big smiles. Chakilita looks straight at the camera, relieved and amused.
+CHAKILITA says (Moroccan Darija): "WSEL-na l-KOR-ya... w a-KHEE-ran!"
+[meaning: We reached Korea... at last!]
+
+SCENE 2 (3-7.5s): Kim runs to his mother and hugs her warmly. Then Kim's mother steps toward Habiba, bows politely with her paws folded and says with a warm smile:
+KIM'S MOTHER says (Korean only): "어서 오세요! 만나서 반갑습니다!"
+[pronounced: eo-seo o-se-yo! man-na-seo ban-gap-seum-ni-da!]
+Habiba bows back with a big, friendly smile and answers in a natural, funny tone:
+HABIBA says (Moroccan Darija): "al-LAH y-'TEEK s-SAH-ha... GHIR a-TAY FEEN?"
+[meaning: God bless you... but where is the tea?]
+
+SCENE 3 (7.5-10.5s): Kim's older sister happily hugs Zouitina, while Kim's eldest brother and his wife bow politely to Habiba. Habiba proudly holds up her silver Moroccan teapot to show everyone. The Korean family looks at the teapot, curious and puzzled. Kim quickly explains to them:
+KIM says (Korean only): "모로코 차예요! 정말 맛있어요!"
+[pronounced: mo-ro-ko cha-ye-yo! jeong-mal ma-si-sseo-yo!]
+
+SCENE 4 (10.5-15s): One wide group shot with BOTH families together. Habiba pats Kim on the shoulder:
+HABIBA says (Moroccan Darija): "a WLI-di Kim, TER-jem LI-na!"
+[meaning: My son Kim, translate for us!]
+Kim's four family members tilt their heads together, puzzled but smiling, and say at the same time (Korean only): "네?" [pronounced: ne?]
+Chakilita, standing in the group, turns to the camera with a calm, sarcastic smile:
+CHAKILITA says (Moroccan Darija): "BA-qi ma dkhel-NASH l-DAR... w BDEE-na f-mu'-TA-mar du-WA-li!"
+[meaning: We haven't even entered the house yet... and we've already started an international conference!]
+LAST SECOND: hold on both families together, smiling, Kim in the middle looking left and right in panic, with a light playful musical sting.
+
+LANGUAGE RULES: Habiba's family speaks Moroccan Darija only. Kim and all of Kim's family speak Korean only; never make them speak Darija, Arabic or English. No voice translation, no written translation. Only the lines above, no extra dialogue. Do not add any other family members.
