@@ -1,0 +1,29 @@
+{
+  "number": 6,
+  "titleAr": "عائلة حبيبة تستعد للسفر",
+  "titleKo": "하비바 가족, 한국 갈 준비",
+  "video": "episodes/ep6.mp4",
+  "videoSeconds": 15.104,
+  "opening": "card",
+  "ending": true,
+  "nextTeaserAr": "",
+  "nextTeaserKo": "",
+  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
+  "cues": [
+    { "from": 0.05, "to": 3.0, "speaker": "chakilita",
+      "text": "كيم قال رحلة عائلية… ماما حبيبة فهماتها هجرة جماعية!",
+      "translation": "킴은 가족 여행이라고 했는데… 엄마는 집단 이민으로 알아들었대요!" },
+    { "from": 3.1, "to": 5.2, "speaker": "kim",
+      "text": "어머님! 이걸 다 가져가실 거예요?",
+      "translation": "ماما! غادي تهزي هادشي كامل؟" },
+    { "from": 5.3, "to": 6.85, "speaker": "habiba",
+      "text": "واش نمشي لكوريا ونبقى بلا أتاي؟",
+      "translation": "한국에 가서 차도 없이 지내라고?" },
+    { "from": 8.4, "to": 10.35, "speaker": "habiba",
+      "text": "آش هاد السفر اللي بدا لينا بالمصايب؟!",
+      "translation": "무슨 여행이 시작부터 사고투성이야?!" },
+    { "from": 10.45, "to": 14.95, "speaker": "chakilita",
+      "text": "باقي ما وصلنا لكوريا… وماما حبيبة خاصها طيارة بوحدها لحوايجنا!",
+      "translation": "아직 한국에 도착도 안 했는데… 엄마는 짐 실을 비행기가 따로 필요해요!" }
+  ]
+}
