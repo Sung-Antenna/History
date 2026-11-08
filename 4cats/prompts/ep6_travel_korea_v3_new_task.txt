@@ -1,0 +1,55 @@
+NEW TASK: create a brand-new VIDEO from scratch (moving pictures AND sound together, with lip-synced voices), as one single MP4 file. This is NOT an audio-only task and NOT an edit of a previous video: do not make separate audio files, do not reuse earlier clips.
+
+Generate exactly ONE video from the prompt below. Do not write a script, do not research, do not review, do not create extra files.
+
+The attached image is a REFERENCE BOARD. It is NOT a scene and must NEVER appear in the video:
+- LEFT half = the family living room at night (red sofas, chandelier, arched window, lanterns). Use it for Scenes 1-3.
+- RIGHT half = the four characters standing side by side, showing their correct faces, outfits and SIZES. From left to right: CHAKILITA (pink takchita), HABIBA (red kaftan), ZOUITINA (green kaftan), KIM (Korean gat hat and blue hanbok).
+- The small white robot is NOT in this episode. Do not show it anywhere. Ignore the outdoor background.
+
+LOCATIONS: Scenes 1-3 = the living room from the reference. Scene 4 = a bright, modern Moroccan airport departure hall with zellige-tiled pillars and carved arches. The hall is EMPTY except for the family: no other travelers, no staff. NO readable signs, NO departure boards, NO letters, numbers or logos anywhere, and NO airplanes. No other locations.
+
+ALL FOUR CHARACTERS ARE ADULTS of about the SAME HEIGHT. Zouitina is an adult married woman, NOT a child. Kim is an adult man, slightly taller than the women, NOT a child or a kitten.
+
+Vertical 9:16, exactly 15 seconds, full frame with no black bars. Pixar-style 3D animated family comedy, fast comedic timing, smooth animation, accurate lip-sync. No subtitles, captions, titles, logos, watermarks or on-screen text anywhere, including on the suitcases and the gadget.
+
+CHARACTERS (identical in every shot, no one else appears):
+- CHAKILITA (narrator, eldest daughter): adult female orange cat, long light-brown hair, GREEN eyes, round glasses, pink sequined takchita. Calm, witty, sarcastic.
+- HABIBA (the mother): adult chubby orange female cat, long wavy black hair, BROWN eyes, black round glasses, gold forehead jewelry, deep-red velvet kaftan with gold embroidery. Excited about the trip, loving.
+- ZOUITINA (youngest daughter, Kim's wife, adult): big curly auburn hair, BROWN eyes, gold earrings, emerald-green kaftan with a gold belt. Helpful and cheerful.
+- KIM (Korean son-in-law, inventor): ADULT male orange tabby cat, chubby, mature face, tabby stripes on forehead, AMBER-GOLD eyes, black Korean gat hat with a peacock feather and a long colorful bead gat strap, bright blue hanbok jacket with a red ribbon, beige baggy trousers, white socks, black shoes. NO necklace. The gat stays on his head in every shot. Kind, eccentric inventor.
+- KIM'S INVENTION: a big shiny silver "smart suitcase" with blinking lights and one big round button. No text on it.
+
+EXPRESSIONS: Habiba, Chakilita and Zouitina keep warm, happy, relaxed faces the whole time: no scowling, no frowning, no gritted teeth, no shouting in anger. Their comedy comes from cheerful, playful or calmly amused reactions. Only Kim is truly panicked.
+
+HOW TO SPEAK THE MOROCCAN DARIJA LINES: each Darija line is written in Latin letters exactly as it must be pronounced. Say the words from the FIRST word to the LAST word, in exactly this order, as natural Moroccan Darija. Never reverse the word order. The English in brackets is only the meaning and must NOT be spoken.
+
+SCENE 1 (0-3.5s): Chakilita stands in the living room in front of a big pile of suitcases and looks straight at the camera with a calm, knowing smile.
+CHAKILITA says (Moroccan Darija): "Kim gal rihla a-i-LI-ya... MA-ma ha-BEE-ba feh-MAT-ha HIJ-ra ja-MA-'i-ya!"
+[meaning: Kim said a family trip... Mama Habiba understood it as a mass migration!]
+
+SCENE 2 (3.5-7.5s): Habiba happily stuffs Kim's silver smart suitcase with clothes, a cooking pot, a Moroccan silver teapot and a big bag of couscous, while Zouitina hands her more things. Kim walks in and stares at the overflowing suitcase, amazed.
+KIM says (Korean only): "어머님! 이걸 다 가져가실 거예요?"
+[pronounced: eo-meo-nim! i-geol da ga-jyeo-ga-sil geo-ye-yo?]
+Habiba hugs the teapot to her chest with a warm, playful smile.
+HABIBA says (Moroccan Darija): "WASH NEM-shi l-KOR-ya w-NEB-qa bla a-TAY?"
+[meaning: Should I go to Korea and stay without tea?]
+
+SCENE 3 (7.5-11s): Kim proudly presses the big button on his smart suitcase to close it. The suitcase beeps, puffs up like a balloon and bursts open: clothes and socks fly all over the living room and rain down softly. Zouitina laughs and tries to catch the flying socks. Habiba, with a sock on her head, laughs and puts her paws on her cheeks with playful, theatrical dismay (smiling, not angry, not shocked).
+HABIBA says (Moroccan Darija, laughing): "ASH had s-SA-far lli BDA LI-na b-l-m-SA-yeb?!"
+[meaning: What is this trip that started with disasters?!]
+Kim stares at his suitcase, totally confused.
+
+Quick whoosh transition to the airport.
+
+SCENE 4 (11-15s): One single continuous shot in the empty airport hall. From the very first frame of this scene, ALL FOUR walk side by side toward the camera, EACH pushing their own luggage trolley piled with suitcases. From LEFT to RIGHT: CHAKILITA, HABIBA, ZOUITINA, KIM.
+- CHAKILITA (far left) pushes her own trolley like everyone else, and while walking she turns her face to the camera with a relaxed, deadpan, slightly amused face.
+CHAKILITA says (Moroccan Darija): "BA-qi ma WSEL-na l-KOR-ya... w MA-ma ha-BEE-ba KHASS-ha tey-YA-ra b-WAH-d-ha l-h-WA-yej-na!"
+[meaning: We haven't even reached Korea yet... and Mama Habiba needs a whole plane just for our stuff!]
+- HABIBA proudly pushes the tallest trolley, a giant tower of suitcases, hugging her silver teapot.
+- ZOUITINA cheerfully pushes her full trolley.
+- KIM (far right) struggles with his trolley and looks up at Habiba's tower of luggage in shock.
+Chakilita must NOT suddenly appear or pop into the frame: she is part of the group, walking with her trolley, for the whole scene.
+LAST SECOND: the four stop walking and hold the pose, with a light playful Moroccan musical sting. The episode ends inside the airport.
+
+LANGUAGE RULES: Chakilita and Habiba speak Moroccan Darija only. Zouitina only laughs. Kim speaks Korean only and does not understand Darija. Never make Kim speak Darija, Arabic or English. Do not translate Kim's line. Never speak the English meanings in brackets. The suitcase only beeps. No extra dialogue.
