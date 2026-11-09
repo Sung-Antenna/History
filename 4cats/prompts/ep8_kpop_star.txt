@@ -1,0 +1,45 @@
+NEW TASK: create a brand-new VIDEO from scratch (moving pictures AND sound together, with lip-synced voices), as one single MP4 file. This is NOT an audio-only task and NOT an edit of a previous video.
+
+Generate exactly ONE video from the prompt below. Do not write a script, do not research, do not review, do not create extra files.
+
+The attached image is a REFERENCE BOARD. It is NOT a scene and must NEVER appear in the video. Copy every character's face, hair, outfit and colors EXACTLY from it. Never swap colors or roles, never merge two characters.
+- LEFT part = HABIBA'S MOROCCAN FAMILY, from left to right: CHAKILITA (pink takchita, glasses), HABIBA (red kaftan, glasses, gold forehead jewel), ZOUITINA (green kaftan, curly auburn hair), KIM (black Korean gat hat, blue hanbok). IGNORE the small robot and the outdoor background.
+- RIGHT part = KIM'S KOREAN FAMILY. In this episode ONLY KIM'S OLDER SISTER appears (the second from the left: pink and purple hanbok, black curly hair, purple earrings). Kim's mother, his eldest brother and the brother's wife are NOT in this episode.
+
+LOCATION: ONE location only — the bright, modern living room of Kim's family home in Korea: light wooden floor, a low wooden table, a sliding hanji paper door, a potted plant, soft warm daylight. NO posters, NO readable signs, NO letters (no Korean, Arabic or English writing), NO numbers, NO logos anywhere.
+
+SIZES: ALL characters are ADULTS of about the same height; Kim is slightly taller than the women. Zouitina is an adult married woman, NOT a child. Nobody is a child or a kitten.
+
+Vertical 9:16, exactly 15 seconds, full frame with no black bars. Pixar-style 3D animated family comedy, bright joyful colors, funny expressive faces, smooth natural dance moves with correct arms, legs, paws and faces (no distorted limbs), accurate lip-sync. Upbeat ORIGINAL K-pop-style background music (not any real song). No subtitles, captions, titles, logos, watermarks or on-screen text anywhere.
+
+CHARACTERS (5 in total, identical in every shot, no one else appears):
+- CHAKILITA (narrator, eldest daughter): adult female orange cat, long light-brown hair, GREEN eyes, round glasses, pink sequined takchita. Calm, witty, sarcastic.
+- ZOUITINA (youngest daughter, Kim's wife, adult): big curly auburn hair, BROWN eyes, gold earrings, emerald-green kaftan with a gold belt. Energetic, cheerful, a little over-confident.
+- KIM'S OLDER SISTER: adult orange tabby cat, DARK-BROWN eyes, glossy BLACK half-up curly hair with side-swept bangs and a gold-and-purple flower hairpin, lilac eyeshadow, magenta lips, purple crystal flower drop earrings, sheer fuchsia-pink jeogori with floral embroidery, purple goreum ribbon, deep-violet chima. Glamorous, a K-pop fan, a warm and patient dance teacher.
+- KIM (Korean son-in-law): adult male orange tabby cat, tabby stripes on forehead, AMBER-GOLD eyes, black Korean gat hat with a peacock feather and a long colorful bead gat strap, bright blue hanbok jacket with a red ribbon, beige baggy trousers, black shoes. NO necklace. The gat stays on his head in every shot.
+- HABIBA (the mother): adult chubby orange female cat, long wavy black hair, BROWN eyes, black round glasses, gold forehead jewelry, deep-red velvet kaftan with gold embroidery.
+
+EXPRESSIONS: everyone keeps warm, happy, amused faces: no frowning, no anger, no shouting. Zouitina is joyfully over-the-top; the others are delighted or calmly amused.
+
+THE PHONE: Kim's sister holds a smartphone whose screen shows only a blur of colorful stage lights and tiny anonymous dancing silhouettes. No real people, no faces, no text, no logos on the screen.
+
+HOW TO SPEAK: Darija lines are written in Latin letters exactly as they must be pronounced; Korean lines are written in Korean with the pronunciation. Say every line from the FIRST word to the LAST word in exactly this order; never reverse the word order. The English in brackets is only the meaning and must NOT be spoken.
+
+SCENE 1 (0-3s): In the living room, Kim's sister happily shows Zouitina the dance video on her phone and demonstrates a simple K-pop move (a finger heart and a little shoulder bounce) without speaking. In the foreground, Chakilita looks straight at the camera with a calm, knowing smile.
+CHAKILITA says (Moroccan Darija): "UKHT Kim BGHAT t-'AL-lem zwi-TEE-na l-KEY-pop... al-LAH y-STER!"
+[meaning: Kim's sister wants to teach Zouitina K-pop... God help us!]
+
+SCENE 2 (3-7s): Zouitina tries to copy the moves with huge enthusiasm: she spins fast, waves her arms and kicks in a funny, exaggerated but smooth way, her curly hair bouncing. Kim's sister laughs and claps to encourage her. Zouitina stops, thrilled, and says:
+ZOUITINA says (Moroccan Darija): "WAAAW! HA-di HI-ya l-MAW-hi-ba lli KA-nat DAY-'a!"
+[meaning: Wow! This is the talent that was lost!]
+
+SCENE 3 (7-11s): Zouitina dances confidently in front of the others, mixing K-pop moves with Moroccan chaabi moves (raised hands clapping, swaying hips, shoulder shimmies). Kim watches with his mouth open in amazement, his sister claps, and Habiba walks in and stops, pleasantly surprised, with a big smile.
+KIM says (Korean only): "와! 정말 대단해요!"
+[pronounced: wa! jeong-mal dae-dan-hae-yo!]
+
+SCENE 4 (11-15s): One single shot. Medium close-up of Chakilita in the foreground, calm, looking straight at the camera with a sarcastic, relaxed face. Behind her, Zouitina strikes a confident superstar final pose (one paw up, chin high) while Kim, his sister and Habiba clap and cheer for her.
+CHAKILITA says (Moroccan Darija): "JAT t-t-'AL-lem l-KEY-pop... w khal-LAT bee-tee-ES y-RA-j-'u l-ma-SAR l-MIH-ni dyal-HOM!"
+[meaning: She came to learn K-pop... and made BTS rethink their careers!]
+LAST SECOND: hold on Chakilita's calm sarcastic face with Zouitina's superstar pose behind her, with a short K-pop-style musical sting.
+
+LANGUAGE RULES: Chakilita, Zouitina and Habiba speak Moroccan Darija only (Habiba says nothing in this episode). Kim and his sister speak Korean only; never make them speak Darija, Arabic or English. Kim's sister does not speak. Only the lines above, no extra dialogue, no voice translation.
