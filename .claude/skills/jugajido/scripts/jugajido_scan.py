@@ -83,20 +83,32 @@ def last_cross(a, b):
     return None, None
 
 
-def wave_count(ma5, ma20):
+def wave_count(ma5, ma20, min_move=0.004):
     """5파동 법칙: 5선이 20선을 골든크로스한 뒤 데드크로스 없이 몇 번째 파동인지.
-    상승 구간과 눌림 구간을 번갈아 1,2,3,... 으로 센다. 데드크로스 상태면 0."""
+    상승 구간과 눌림 구간을 번갈아 1,2,3,... 으로 센다. 데드크로스 상태면 0.
+    잔물결을 파동으로 세지 않도록, 5선이 직전 고점/저점에서 min_move(비율) 이상
+    되돌릴 때만 방향 전환(새 파동)으로 인정한다 (지그재그 방식)."""
     idx, kind = last_cross(ma5, ma20)
     if kind != "GC":
         return 0
     waves, rising = 1, True
+    extreme = ma5[idx]
     for i in range(idx + 1, len(ma5)):
-        if ma5[i] is None or ma5[i - 1] is None:
+        v = ma5[i]
+        if v is None:
             continue
-        up = ma5[i] >= ma5[i - 1]
-        if up != rising:
-            waves += 1
-            rising = up
+        if rising:
+            if v > extreme:
+                extreme = v
+            elif (extreme - v) / extreme >= min_move:
+                waves += 1
+                rising, extreme = False, v
+        else:
+            if v < extreme:
+                extreme = v
+            elif (v - extreme) / extreme >= min_move:
+                waves += 1
+                rising, extreme = True, v
     return waves
 
 
@@ -165,7 +177,7 @@ def settle_on_60(bars, ma20, ma60, lookback=12):
     return None
 
 
-def analyze(bars):
+def analyze(bars, wave_min_move=0.004):
     closes = [b["c"] for b in bars]
     mas = {n: ma_series(closes, n) for n in MA_PERIODS}
     bb = bollinger(closes)
@@ -216,7 +228,7 @@ def analyze(bars):
         "prior_low": prior_low,
         "cross_20_60": gc_kind,
         "cross_20_60_bars_ago": (i - gc_idx) if gc_idx is not None else None,
-        "wave_5_over_20": wave_count(mas[5], mas[20]),
+        "wave_5_over_20": wave_count(mas[5], mas[20], wave_min_move),
         "settle_60": settle_on_60(bars, mas[20], mas[60]),
     }
 
@@ -272,8 +284,9 @@ def main():
     args = p.parse_args()
 
     result = {}
-    for tf, interval, size in (("30분봉", "30min", 400), ("일봉", "1day", 300)):
-        a = analyze(fetch(args.symbol, interval, size))
+    # 정규장(미 동부 9:30~16:00) 데이터만 쓴다: 선물·CFD 야간 움직임은 판단에서 제외 (사용자 원칙).
+    for tf, interval, size, mv in (("30분봉", "30min", 400, 0.004), ("일봉", "1day", 300, 0.015)):
+        a = analyze(fetch(args.symbol, interval, size), mv)
         result[tf] = {"analysis": a, "signals": signals(tf, a)}
 
     all_sigs = [x for tf in result for x in result[tf]["signals"]]
