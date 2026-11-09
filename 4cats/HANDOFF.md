@@ -259,4 +259,4 @@ Manus 프롬프트용 영어 묘사:
 
 ### ✅ 8화 «زويتينة نجمة الكيبوب» / 주이티나, K팝 스타가 되다 (완성)
 프롬프트 `prompts/ep8_kpop_star.txt`, 참조 보드 `reference/board_family_nuna.jpg`.
-두 버전: `remotion/episodes/ep8.json`(원본 15.1초, 샤킬리타 마지막 대사 포함) / `ep8_short.json`(11.6초에서 끊고 주이티나 포즈 1초 정지, 샤킬리타 마지막 대사 없음). 짧은 버전 영상은 public/episodes/ep8_short.mp4 (ffmpeg로 생성).
+두 버전: `remotion/episodes/ep8.json`(원본 15.1초, 샤킬리타 마지막 대사 포함) / `ep8_short.json`(10.2초에서 끊고 주이티나 포즈 1초 정지, 샤킬리타 마지막 대사 없음. 샤킬리타 대사가 장면 전환 전 10.3초부터 시작해서 11.6초 컷으로는 일부가 남았음). 짧은 버전 영상은 public/episodes/ep8_short.mp4 (ffmpeg로 생성).
