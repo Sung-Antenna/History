@@ -4,7 +4,7 @@ Generate exactly ONE video from the prompt below. Do not write a script, do not 
 
 The attached image is a REFERENCE BOARD. It is NOT a scene and must NEVER appear in the video. Copy every character's face, hair, outfit and colors EXACTLY from it. Never swap colors or roles, never merge two characters.
 - LEFT part = HABIBA'S MOROCCAN FAMILY, from left to right: CHAKILITA (pink takchita, glasses), HABIBA (red kaftan, glasses, gold forehead jewel), ZOUITINA (green kaftan, curly auburn hair), KIM (black Korean gat hat, blue hanbok). IGNORE the small robot and the outdoor background.
-- RIGHT part = KIM'S KOREAN FAMILY. In this episode ONLY KIM'S OLDER SISTER appears (the second from the left: pink and purple hanbok, black curly hair, purple earrings). Kim's mother, his eldest brother and the brother's wife are NOT in this episode.
+- RIGHT part = KIM'S OLDER SISTER (pink and purple hanbok, black curly hair, purple earrings). She is the only member of Kim's Korean family in this episode.
 
 LOCATION: ONE location only — the bright, modern living room of Kim's family home in Korea: light wooden floor, a low wooden table, a sliding hanji paper door, a potted plant, soft warm daylight. NO posters, NO readable signs, NO letters (no Korean, Arabic or English writing), NO numbers, NO logos anywhere.
 
