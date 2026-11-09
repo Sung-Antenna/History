@@ -113,6 +113,58 @@ def is_bull_reversal(bars):
     return small and c["c"] >= a["c"] + 0.5 * a_body
 
 
+def ma_bottoms(ma, start, end, min_gap=4):
+    """ma[start:end] 구간에서 이평선이 만든 바닥(국소 최저점) 인덱스 목록."""
+    out = []
+    for i in range(max(start, 1), min(end, len(ma) - 1)):
+        if None in (ma[i - 1], ma[i], ma[i + 1]):
+            continue
+        if ma[i] < ma[i - 1] and ma[i] <= ma[i + 1]:
+            if not out or i - out[-1] >= min_gap:
+                out.append(i)
+    return out
+
+
+def settle_on_60(bars, ma20, ma60, lookback=12):
+    """사용자 규칙 '30분봉 60선 안착':
+    1) 20선이 두 개의 바닥을 그린 뒤
+    2) 캔들이 60선을 강하게 뚫고 올라가고(60선 아래에서 시작해 위에서 마감하는 큰 양봉)
+    3) 다음 캔들이 급락하듯 내려오지만 결국 60선 위에서 마감 → 안착
+    4) 이후 캔들이 앞고점(돌파·안착 캔들의 고가)을 넘으면 → 일봉상 의미 있는 상승 확인
+    최근 lookback 봉 안에서 가장 최근 사례를 돌려준다."""
+    n = len(bars)
+    bodies = [abs(b["c"] - b["o"]) for b in bars]
+    for b in range(n - 2, max(n - 2 - lookback, 21), -1):
+        bk, nx = bars[b], bars[b + 1]
+        if None in (ma60[b], ma60[b - 1], ma60[b + 1]):
+            continue
+        avg_body = sum(bodies[b - 20 : b]) / 20
+        breakout = (
+            bk["c"] > bk["o"]
+            and bk["c"] > ma60[b]
+            and (bk["o"] <= ma60[b] or bars[b - 1]["c"] <= ma60[b - 1])
+            and bodies[b] >= max(avg_body, 1e-9)
+        )
+        if not breakout:
+            continue
+        pulled_back = nx["c"] < nx["o"] or nx["l"] < bk["c"]
+        settled = pulled_back and nx["c"] > ma60[b + 1]
+        if not settled:
+            continue
+        bottoms = ma_bottoms(ma20, b - 60, b + 1)
+        prior_high = max(bk["h"], nx["h"])
+        confirmed = any(x["c"] > prior_high for x in bars[b + 2 :])
+        return {
+            "breakout_time": bk["t"],
+            "settle_time": nx["t"],
+            "ma60": round(ma60[b + 1], 2),
+            "prior_high": prior_high,
+            "ma20_two_bottoms": len(bottoms) >= 2,
+            "confirmed_breakout": confirmed,
+        }
+    return None
+
+
 def analyze(bars):
     closes = [b["c"] for b in bars]
     mas = {n: ma_series(closes, n) for n in MA_PERIODS}
@@ -165,6 +217,7 @@ def analyze(bars):
         "cross_20_60": gc_kind,
         "cross_20_60_bars_ago": (i - gc_idx) if gc_idx is not None else None,
         "wave_5_over_20": wave_count(mas[5], mas[20]),
+        "settle_60": settle_on_60(bars, mas[20], mas[60]),
     }
 
 
@@ -185,6 +238,13 @@ def signals(tf, a):
     if a["wave_5_over_20"] >= 5:
         # 파동 수가 바뀔 때마다 새 알림이 뜨지 않도록 신호 문구는 고정한다 (숫자는 요약 출력에 표시).
         s.append(f"{tf}: 5선 5파 이상(매도 준비)")
+    st = a.get("settle_60")
+    if st:
+        tag = f"{st['breakout_time'][5:16]} 돌파"
+        twob = "20선 쌍바닥 후 " if st["ma20_two_bottoms"] else ""
+        s.append(f"{tf}: ★ {twob}60선 안착({tag}, 60선 {st['ma60']}, 앞고점 {st['prior_high']:.2f})")
+        if st["confirmed_breakout"]:
+            s.append(f"{tf}: ★★ 60선 안착 후 앞고점 {st['prior_high']:.2f} 돌파({tag}) = 일봉상 의미 있는 상승")
     s.append(f"{tf}: 240선 {'위' if a['above_240'] else '아래'}")
     return s
 
