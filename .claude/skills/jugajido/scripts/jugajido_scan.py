@@ -183,7 +183,8 @@ def signals(tf, a):
     if a["cross_20_60"] and a["cross_20_60_bars_ago"] is not None and a["cross_20_60_bars_ago"] <= 2:
         s.append(f"{tf}: 20/60 {a['cross_20_60']} 발생")
     if a["wave_5_over_20"] >= 5:
-        s.append(f"{tf}: 5선 {a['wave_5_over_20']}파동(5파 이상 → 매도 준비)")
+        # 파동 수가 바뀔 때마다 새 알림이 뜨지 않도록 신호 문구는 고정한다 (숫자는 요약 출력에 표시).
+        s.append(f"{tf}: 5선 5파 이상(매도 준비)")
     s.append(f"{tf}: 240선 {'위' if a['above_240'] else '아래'}")
     return s
 
