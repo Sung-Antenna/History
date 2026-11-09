@@ -256,3 +256,7 @@ Manus 프롬프트용 영어 묘사:
 ### ✅ 7화 «مرحبا بكم في كوريا الجنوبية» / 한국에 오신 걸 환영해요 (완성, 15.1초)
 프롬프트 `prompts/ep7_welcome_korea.txt`, 참조 보드 `reference/board_two_families.jpg`(하비바 가족 + 한국 가족), 자막 `remotion/episodes/ep7.json`.
 자막 화자 추가: `kimMother`(أم كيم / 어머니), `koreanFamily`(عائلة كيم / 킴의 가족). WhatsApp 화질(576×1008)로 작업함.
+
+### ✅ 8화 «زويتينة نجمة الكيبوب» / 주이티나, K팝 스타가 되다 (완성)
+프롬프트 `prompts/ep8_kpop_star.txt`, 참조 보드 `reference/board_family_nuna.jpg`.
+두 버전: `remotion/episodes/ep8.json`(원본 15.1초, 샤킬리타 마지막 대사 포함) / `ep8_short.json`(11.6초에서 끊고 주이티나 포즈 1초 정지, 샤킬리타 마지막 대사 없음). 짧은 버전 영상은 public/episodes/ep8_short.mp4 (ffmpeg로 생성).

@@ -1,0 +1,39 @@
+{
+  "number": 8,
+  "titleAr": "زويتينة نجمة الكيبوب",
+  "titleKo": "주이티나, K팝 스타가 되다",
+  "video": "episodes/ep8_short.mp4",
+  "videoSeconds": 12.625,
+  "opening": "card",
+  "ending": true,
+  "nextTeaserAr": "",
+  "nextTeaserKo": "",
+  "subtitles": {
+    "bottom": 430,
+    "showSpeaker": true,
+    "showTranslation": true
+  },
+  "cues": [
+    {
+      "from": 0.07,
+      "to": 2.5,
+      "speaker": "chakilita",
+      "text": "أخت كيم بغات تعلّم زويتينة الكيبوب… الله يستر!",
+      "translation": "킴 누나가 주이티나한테 K팝을 가르친대요… 신이시여 도와주소서!"
+    },
+    {
+      "from": 5.15,
+      "to": 7.45,
+      "speaker": "zouitina",
+      "text": "وااااو! هادي هي الموهبة اللي كانت ضايعة!",
+      "translation": "우와! 이게 바로 숨겨져 있던 재능이야!"
+    },
+    {
+      "from": 7.85,
+      "to": 10.1,
+      "speaker": "kim",
+      "text": "와! 정말 대단해요!",
+      "translation": "واو! نتي واعرة بزاف!"
+    }
+  ]
+}
