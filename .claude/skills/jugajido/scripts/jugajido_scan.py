@@ -125,15 +125,30 @@ def is_bull_reversal(bars):
     return small and c["c"] >= a["c"] + 0.5 * a_body
 
 
-def ma_bottoms(ma, start, end, min_gap=4):
-    """ma[start:end] 구간에서 이평선이 만든 바닥(국소 최저점) 인덱스 목록."""
+def ma_bottoms(ma, start, end, min_move=0.005):
+    """ma[start:end] 구간에서 이평선이 만든 '의미 있는' 바닥 인덱스 목록 (지그재그).
+    직전 고점에서 min_move 이상 내려왔다가, 그 저점에서 다시 min_move 이상 올라와야
+    바닥 하나로 인정한다. 잔물결은 바닥으로 세지 않는다 (사용자가 차트에서 보는 바닥 기준)."""
     out = []
-    for i in range(max(start, 1), min(end, len(ma) - 1)):
-        if None in (ma[i - 1], ma[i], ma[i + 1]):
-            continue
-        if ma[i] < ma[i - 1] and ma[i] <= ma[i + 1]:
-            if not out or i - out[-1] >= min_gap:
-                out.append(i)
+    start, end = max(start, 0), min(end, len(ma))
+    vals = [(i, ma[i]) for i in range(start, end) if ma[i] is not None]
+    if not vals:
+        return out
+    falling = False
+    hi_i, hi = vals[0]
+    lo_i, lo = vals[0]
+    for i, v in vals[1:]:
+        if not falling:
+            if v > hi:
+                hi_i, hi = i, v
+            elif (hi - v) / hi >= min_move:
+                falling, lo_i, lo = True, i, v
+        else:
+            if v < lo:
+                lo_i, lo = i, v
+            elif (v - lo) / lo >= min_move:
+                out.append(lo_i)
+                falling, hi_i, hi = False, i, v
     return out
 
 
@@ -163,7 +178,12 @@ def settle_on_60(bars, ma20, ma60, lookback=12):
         settled = pulled_back and nx["c"] > ma60[b + 1]
         if not settled:
             continue
-        bottoms = ma_bottoms(ma20, b - 60, b + 1)
+        bottoms = ma_bottoms(ma20, b - 80, b + 1)
+        # 쌍바닥 = 마지막 두 바닥이 비슷한 높이(1.5% 이내)여야 한다 (W자).
+        two_bottoms = (
+            len(bottoms) >= 2
+            and abs(ma20[bottoms[-1]] - ma20[bottoms[-2]]) / ma20[bottoms[-2]] <= 0.015
+        )
         prior_high = max(bk["h"], nx["h"])
         confirmed = any(x["c"] > prior_high for x in bars[b + 2 :])
         return {
@@ -171,7 +191,8 @@ def settle_on_60(bars, ma20, ma60, lookback=12):
             "settle_time": nx["t"],
             "ma60": round(ma60[b + 1], 2),
             "prior_high": prior_high,
-            "ma20_two_bottoms": len(bottoms) >= 2,
+            "ma20_two_bottoms": two_bottoms,
+            "ma20_bottoms": [bars[k]["t"][5:16] for k in bottoms[-2:]],
             "confirmed_breakout": confirmed,
         }
     return None
@@ -251,10 +272,10 @@ def signals(tf, a):
         # 파동 수가 바뀔 때마다 새 알림이 뜨지 않도록 신호 문구는 고정한다 (숫자는 요약 출력에 표시).
         s.append(f"{tf}: 5선 5파 이상(매도 준비)")
     st = a.get("settle_60")
-    if st:
+    # 사용자 규칙: 20선 바닥이 두 개 나온 뒤의 60선 돌파·안착만 신호로 인정한다.
+    if st and st["ma20_two_bottoms"]:
         tag = f"{st['breakout_time'][5:16]} 돌파"
-        twob = "20선 쌍바닥 후 " if st["ma20_two_bottoms"] else ""
-        s.append(f"{tf}: ★ {twob}60선 안착({tag}, 60선 {st['ma60']}, 앞고점 {st['prior_high']:.2f})")
+        s.append(f"{tf}: ★ 20선 쌍바닥 후 60선 안착({tag}, 60선 {st['ma60']}, 앞고점 {st['prior_high']:.2f})")
         if st["confirmed_breakout"]:
             s.append(f"{tf}: ★★ 60선 안착 후 앞고점 {st['prior_high']:.2f} 돌파({tag}) = 일봉상 의미 있는 상승")
     s.append(f"{tf}: 240선 {'위' if a['above_240'] else '아래'}")
