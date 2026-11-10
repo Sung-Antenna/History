@@ -260,3 +260,8 @@ Manus 프롬프트용 영어 묘사:
 ### ✅ 8화 «زويتينة نجمة الكيبوب» / 주이티나, K팝 스타가 되다 (완성)
 프롬프트 `prompts/ep8_kpop_star.txt`, 참조 보드 `reference/board_family_nuna.jpg`.
 두 버전: `remotion/episodes/ep8.json`(원본 15.1초, 샤킬리타 마지막 대사 포함) / `ep8_short.json`(10.2초에서 끊고 주이티나 포즈 1초 정지, 샤킬리타 마지막 대사 없음. 샤킬리타 대사가 장면 전환 전 10.3초부터 시작해서 11.6초 컷으로는 일부가 남았음). 짧은 버전 영상은 public/episodes/ep8_short.mp4 (ffmpeg로 생성).
+
+### ✅ 9화 «حبيبة ولات مشهورة فكوريا!» / 하비바, 한국에서 스타가 되다 (완성)
+프롬프트 `prompts/ep9_habiba_famous.txt`, 참조 `reference/cast_lineup.png`, 자막 `remotion/episodes/ep9.json` (화자 `photographer` 추가).
+수정: 원본 1.7~2.9초에 카메라가 다가가며 하비바가 샤킬리타로 변신(얼굴·옷이 바뀜) → 1.6초 화면을 멈추고 샤킬리타 쪽으로 천천히 다가가는 화면(1.33초)으로 교체, 소리는 원본 유지. 원본은 public/episodes/ep9_original.mp4.
+교훈: AI는 카메라가 한 인물에게 다가가는 장면에서 인물이 바뀌기 쉽다 → 프롬프트에 "같은 인물이 끝까지 그대로"를 적고, 클로즈업 대상의 위치를 분명히 정한다.

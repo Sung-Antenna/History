@@ -1,0 +1,32 @@
+{
+  "number": 9,
+  "titleAr": "حبيبة ولات مشهورة فكوريا!",
+  "titleKo": "하비바, 한국에서 스타가 되다!",
+  "video": "episodes/ep9.mp4",
+  "videoSeconds": 15.072,
+  "opening": "card",
+  "ending": true,
+  "nextTeaserAr": "",
+  "nextTeaserKo": "",
+  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
+  "cues": [
+    { "from": 0.07, "to": 2.85, "speaker": "chakilita",
+      "text": "اليوم خرجنا نتمشاو فكوريا… ولكن ماما عندها مخطط آخر!",
+      "translation": "오늘 한국에서 산책하러 나왔는데… 엄마는 다른 계획이 있었죠!" },
+    { "from": 2.95, "to": 4.7, "speaker": "photographer",
+      "text": "사진 한 장 찍어도 될까요?",
+      "translation": "واش نقدر ناخد ليك تصويرة؟" },
+    { "from": 4.85, "to": 6.85, "speaker": "habiba",
+      "text": "إيوا صوّر آ ولدي… غير من هاد الجهة كنبان زوينة!",
+      "translation": "그래 찍으렴 얘야… 이쪽에서 찍어야 예쁘게 나와!" },
+    { "from": 7.0, "to": 8.4, "speaker": "zouitina",
+      "text": "ماما! راكي وليتي مشهورة!",
+      "translation": "엄마! 엄마 유명해졌어요!" },
+    { "from": 8.45, "to": 10.9, "speaker": "kim",
+      "text": "와! 어머님, 정말 유명해지셨어요!",
+      "translation": "واو! ماما، وليتي مشهورة بصح!" },
+    { "from": 11.0, "to": 14.95, "speaker": "chakilita",
+      "text": "ماما ما كتعرفش تقول صباح الخير بالكورية… وعرفات تولي مشهورة!",
+      "translation": "엄마는 한국어로 '좋은 아침'도 못 하는데… 유명해지는 건 할 줄 아네요!" }
+  ]
+}
