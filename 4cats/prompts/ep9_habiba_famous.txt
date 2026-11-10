@@ -1,0 +1,50 @@
+NEW TASK: create a brand-new VIDEO from scratch (moving pictures AND sound together, with lip-synced voices), as one single MP4 file. This is NOT an audio-only task and NOT an edit of a previous video.
+
+Generate exactly ONE video from the prompt below. Do not write a script, do not research, do not review, do not create extra files.
+
+The attached image is a REFERENCE of the four main characters. It is NOT a scene and must NEVER appear in the video. Copy their faces, hair, outfits, colors and SIZES exactly. From left to right: CHAKILITA (pink takchita, glasses), HABIBA (red kaftan, glasses, gold forehead jewel), ZOUITINA (green kaftan, curly auburn hair), KIM (black Korean gat hat, blue hanbok). IGNORE the small robot and the outdoor background: they are NOT in this episode.
+
+LOCATION: ONE location only — a sunny, picturesque traditional Korean hanok village street: curved tiled roofs, wooden gates, stone walls, a few potted pine trees. NO shops, NO signboards, NO letters (no Korean, Arabic or English writing), NO numbers, NO logos anywhere.
+
+SIZES: the four main characters are ADULTS of about the same height; Kim is slightly taller than the women. Zouitina is an adult married woman, NOT a child.
+
+Vertical 9:16, exactly 15 seconds, full frame with no black bars. Pixar-style 3D animated family comedy, smooth cinematic camera, funny expressive faces, accurate lip-sync. No subtitles, captions, titles, logos, watermarks or on-screen text anywhere, including on cameras and phones.
+
+MAIN CHARACTERS (identical in every shot):
+- CHAKILITA (narrator, eldest daughter): adult female orange cat, long light-brown hair, GREEN eyes, round glasses, pink sequined takchita. Calm, witty, sarcastic.
+- HABIBA (the mother): adult chubby orange female cat, long wavy black hair, BROWN eyes, black round glasses, gold forehead jewelry, deep-red velvet kaftan with gold embroidery. Holds her silver Moroccan teapot. Proud, glamorous, enjoying the attention.
+- ZOUITINA (youngest daughter, Kim's wife, adult): big curly auburn hair, BROWN eyes, gold earrings, emerald-green kaftan with a gold belt. Excited.
+- KIM (Korean son-in-law): adult male orange tabby cat, tabby stripes on forehead, AMBER-GOLD eyes, black Korean gat hat with a peacock feather and a long colorful bead gat strap, bright blue hanbok jacket with a red ribbon, beige baggy trousers, black shoes. NO necklace. The gat stays on his head in every shot.
+EXTRA CHARACTERS:
+- THE PHOTOGRAPHER: a polite young adult Korean male cat with gray fur, a black cap and a beige jacket, holding a big camera with no text on it.
+- THE FANS: about eight simple, friendly Korean cats with gray, white and black fur in modern casual clothes and colorful hanbok, holding phones with no text on the screens. They must NOT look like the main characters (no orange fur, no glasses, no gat). They only cheer, laugh and say "와!" (pronounced "wa!"); no other words.
+
+EXPRESSIONS: Habiba, Chakilita and Zouitina have happy, warm faces: no frowning, no anger. Habiba is proudly over-the-top like a movie star; Chakilita stays calm and amused; only Kim is shocked.
+
+HOW TO SPEAK: Darija lines are written in Latin letters exactly as they must be pronounced; Korean lines are written in Korean with the pronunciation. Say every line from the FIRST word to the LAST word in exactly this order; never reverse the word order. The English in brackets is only the meaning and must NOT be spoken.
+
+SCENE 1 (0-3.5s): The family walks along the hanok street; Habiba proudly holds her silver teapot. Chakilita looks straight at the camera with a calm, knowing smile.
+CHAKILITA says (Moroccan Darija): "l-YOUM khrej-NA nt-mash-AW f-KOR-ya... w-LA-kin MA-ma 'and-HA mu-KHAT-tat A-khor!"
+[meaning: Today we went for a walk in Korea... but Mom had another plan!]
+
+SCENE 2 (3.5-7s): The photographer notices Habiba's beautiful kaftan, approaches politely with a small bow and asks:
+PHOTOGRAPHER says (Korean only): "사진 한 장 찍어도 될까요?"
+[pronounced: sa-jin han jang jji-geo-do doel-kka-yo?]
+Habiba doesn't understand a word, but strikes an elegant pose with total confidence:
+HABIBA says (Moroccan Darija): "EE-wa SAW-wer a WLI-di... GHIR men HAD l-JI-ha kan-BAN zwi-NA!"
+[meaning: Go ahead, take the picture, my son... only from this side, I look prettier!]
+Camera flash; a few fans start gathering.
+
+SCENE 3 (7-11s): The fans crowd around Habiba with their phones. She poses like a superstar: fixes her hair and her glasses, waves graciously. Zouitina jumps with joy:
+ZOUITINA says (Moroccan Darija): "MA-ma! RA-ki wel-LI-ti mesh-HU-ra!"
+[meaning: Mom! You've become famous!]
+Kim stares, completely shocked:
+KIM says (Korean only): "와! 어머님, 정말 유명해지셨어요!"
+[pronounced: wa! eo-meo-nim, jeong-mal yu-myeong-hae-ji-syeo-sseo-yo!]
+
+SCENE 4 (11-15s): One single shot. In the CENTER, clearly visible, Habiba raises her silver teapot high like a winner's trophy, smiling proudly among cheering fans and camera flashes; Kim stands beside her, still shocked. Chakilita stands at the LEFT EDGE of the frame (she must not block Habiba), looks straight at the camera with a calm, sarcastic face and shrugs:
+CHAKILITA says (Moroccan Darija): "MA-ma ma kt-'ref-SH t-GOOL s-BAH l-KHEER b-l-ku-REE-ya... w 'ar-FAT t-WEL-li mesh-HU-ra!"
+[meaning: Mom can't even say good morning in Korean... but she knew how to become famous!]
+LAST SECOND: hold on Habiba waving to her fans like a world star, Kim shocked, Chakilita shrugging, with a short playful musical sting.
+
+LANGUAGE RULES: Chakilita, Habiba and Zouitina speak Moroccan Darija only. Kim, the photographer and the fans speak Korean only; never make them speak Darija, Arabic or English. Only the lines above, no extra dialogue, no voice translation.
