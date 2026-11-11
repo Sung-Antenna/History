@@ -3,7 +3,7 @@
 
 QQQ(나스닥100 추종 ETF)의 30분봉·일봉을 받아 주가지도 규칙으로 상태를 계산하고,
 알림이 필요한 신호를 출력한다. NDX 지수는 무료 플랜에서 막혀 있으므로 QQQ 값에
---ratio(기본 41.7)를 곱해 나스닥100 환산값을 함께 보여준다 (근사치).
+--ratio(기본 41.13)를 곱해 나스닥100 환산값을 함께 보여준다 (근사치).
 
 API 키는 환경의 네트워크 프록시가 api.twelvedata.com 요청에 자동으로 넣는다.
 키를 직접 쓰려면 환경변수 TWELVEDATA_API_KEY 를 설정한다 (헤더로 전송).
@@ -299,7 +299,7 @@ def fmt(tf, a, ratio):
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--symbol", default="QQQ")
-    p.add_argument("--ratio", type=float, default=41.7, help="NDX ≈ QQQ × ratio (근사)")
+    p.add_argument("--ratio", type=float, default=41.13, help="NDX ≈ QQQ × ratio (근사, 2026-11-11 지수 28,456 / QQQ 691.90로 보정)")
     p.add_argument("--json", action="store_true")
     p.add_argument("--state", help="이전 신호를 저장/비교할 JSON 파일")
     args = p.parse_args()
