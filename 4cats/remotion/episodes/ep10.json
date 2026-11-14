@@ -1,0 +1,32 @@
+{
+  "number": 10,
+  "titleAr": "كيم اختفى فالسوق الكوري!",
+  "titleKo": "킴이 한국 시장에서 사라졌다!",
+  "video": "episodes/ep10.mp4",
+  "videoSeconds": 15.069,
+  "opening": "card",
+  "ending": true,
+  "nextTeaserAr": "الحلقة الجاية: فين مشى كيم؟",
+  "nextTeaserKo": "다음 화: 킴은 어디로 갔을까?",
+  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
+  "cues": [
+    { "from": 0.07, "to": 2.9, "speaker": "chakilita",
+      "text": "خرجنا نتسوقو فكوريا… ولكن غادي يطرأ لي ماكانش في الحسبان!",
+      "translation": "한국에서 쇼핑하러 나왔는데… 생각지도 못한 일이 벌어질 거예요!" },
+    { "from": 3.05, "to": 6.05, "speaker": "habiba",
+      "text": "كيم؟! آ كيم! فين مشيتي آ ولدي؟!",
+      "translation": "킴?! 킴! 얘야, 어디 갔니?!" },
+    { "from": 9.3, "to": 10.5, "speaker": "habiba",
+      "text": "فين مشى هاد الولد؟!",
+      "translation": "이 녀석 어디 간 거야?!" },
+    { "from": 10.6, "to": 11.3, "speaker": "zouitina",
+      "text": "ماما… واش لقيتيه؟",
+      "translation": "엄마… 찾았어요?" },
+    { "from": 11.33, "to": 12.05, "speaker": "habiba",
+      "text": "والو! ما لقيتوش!",
+      "translation": "아니! 못 찾았어!" },
+    { "from": 12.1, "to": 14.95, "speaker": "chakilita",
+      "text": "قلبنا عليه فالسوق كامل… ولكن اللي لقيناه كان أغرب من الاختفاء ديالو!",
+      "translation": "시장을 다 뒤졌는데… 우리가 찾은 건 킴이 사라진 것보다 더 이상한 거였어요!" }
+  ]
+}
