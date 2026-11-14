@@ -1,0 +1,13 @@
+{
+  "number": 11,
+  "titleAr": "الريشة الغامضة",
+  "titleKo": "수수께끼의 깃털",
+  "video": "episodes/ep11.mp4",
+  "videoSeconds": 15.104,
+  "opening": "card",
+  "ending": true,
+  "nextTeaserAr": "الحلقة الجاية: شنو كاين ورا الباب؟",
+  "nextTeaserKo": "다음 화: 문 너머에는 무엇이?",
+  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
+  "cues": []
+}
