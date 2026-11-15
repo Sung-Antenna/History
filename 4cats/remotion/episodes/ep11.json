@@ -1,7 +1,7 @@
 {
   "number": 11,
-  "titleAr": "الريشة الغامضة",
-  "titleKo": "수수께끼의 깃털",
+  "titleAr": "فين مشاو بكيم؟!",
+  "titleKo": "킴을 어디로 데려간 걸까?!",
   "video": "episodes/ep11.mp4",
   "videoSeconds": 15.104,
   "opening": "card",
@@ -9,5 +9,24 @@
   "nextTeaserAr": "الحلقة الجاية: شنو كاين ورا الباب؟",
   "nextTeaserKo": "다음 화: 문 너머에는 무엇이?",
   "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
-  "cues": []
+  "cues": [
+    { "from": 0.05, "to": 2.85, "speaker": "chakilita",
+      "text": "من بعد ما اختفى كيم فالسوق… ماما حبيبة دخلات فحالة استنفار!",
+      "translation": "킴이 시장에서 사라진 뒤로… 엄마는 비상사태에 돌입했어요!" },
+    { "from": 3.2, "to": 5.9, "speaker": "habiba",
+      "text": "هادي ديال كيم! راه قريب من هنا!",
+      "translation": "이거 킴 거야! 근처에 있어!" },
+    { "from": 6.05, "to": 8.45, "speaker": "kim",
+      "text": "도와주세요! 여기 누구 없어요?",
+      "translation": "عتقوني! واش كاين شي حد هنا؟" },
+    { "from": 8.65, "to": 10.55, "speaker": "habiba",
+      "text": "كيم! آ ولدي! واش نتا هنا؟!",
+      "translation": "킴! 얘야! 거기 있니?!" },
+    { "from": 11.3, "to": 12.6, "speaker": "habiba",
+      "text": "آآآآش هادا؟!",
+      "translation": "이게 뭐야?!" },
+    { "from": 12.7, "to": 14.95, "speaker": "chakilita",
+      "text": "لقينا كيم… ولكن تمنيت لو بقينا كنقلبو عليه!",
+      "translation": "킴을 찾긴 했는데… 차라리 계속 찾고 있었으면 좋겠어요!" }
+  ]
 }
