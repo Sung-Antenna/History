@@ -1,0 +1,26 @@
+{
+  "number": 12,
+  "titleAr": "العصابة الغامضة",
+  "titleKo": "수수께끼의 조직",
+  "video": "episodes/ep12.mp4",
+  "videoSeconds": 15.104,
+  "opening": "card",
+  "ending": true,
+  "nextTeaserAr": "الحلقة الجاية: شكون هوما هاد العصابة؟",
+  "nextTeaserKo": "다음 화: 이 조직의 정체는?",
+  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
+  "cues": [
+    { "from": 0.95, "to": 2.95, "speaker": "chakilita",
+      "text": "دخلنا للبناية باش نلقاو كيم… ولكن اللي تسنانا تما ما كانش فالحسبان!",
+      "translation": "킴을 찾으러 건물에 들어갔는데… 거기서 기다리던 건 상상도 못 한 거였어요!" },
+    { "from": 7.3, "to": 10.7, "speaker": "habiba",
+      "text": "آآآ كيم! اشنو دارو ليك هاد الناس؟!",
+      "translation": "아아아 킴! 이 사람들이 너한테 무슨 짓을 한 거니?!" },
+    { "from": 10.95, "to": 12.45, "speaker": "kim",
+      "text": "어머님! 진정하세요! 괜찮아요!",
+      "translation": "ماما! هدني راسك! أنا بخير!" },
+    { "from": 12.7, "to": 14.5, "speaker": "habiba",
+      "text": "واش خطفوه ولا هو اللي خاطفهم؟!",
+      "translation": "얘네가 킴을 납치한 거야, 킴이 얘네를 납치한 거야?!" }
+  ]
+}
