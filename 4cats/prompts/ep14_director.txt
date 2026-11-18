@@ -1,0 +1,53 @@
+NEW TASK: create a brand-new VIDEO from scratch (moving pictures AND sound together, with lip-synced voices), as one single MP4 file. This is NOT an audio-only task and NOT an edit of a previous video.
+
+Generate exactly ONE video from the prompt below. Do not write a script, do not research, do not review, do not create extra files.
+
+The attached image is a REFERENCE BOARD. It is NOT a scene and must NEVER appear in the video. FOLLOW IT EXACTLY.
+- LEFT part = the LAST SHOT of the previous episode: the hall, the big golden throne, Kim sitting on it, the cats in black suits and sunglasses behind him, Habiba and Zouitina in front. The video STARTS from this exact situation, location and lighting.
+- RIGHT part = the OFFICIAL look of the four family characters. Copy their faces, hair, outfits, colors and SIZES exactly, in every shot. From left to right: CHAKILITA (pink takchita, glasses), HABIBA (deep-red velvet kaftan, glasses, gold forehead jewel), ZOUITINA (green kaftan, curly auburn hair), KIM (black gat hat, blue hanbok). IGNORE the small robot and the outdoor background.
+
+DO NOT CHANGE THE CHARACTERS: never give anyone a new costume, a crown, or a different face. Habiba keeps her deep-red VELVET kaftan with GOLD embroidery and her gold forehead jewel the whole time: NO crown, NO new robe. All four family members appear in this episode. ALL FOUR are ADULTS of about the same height; Kim is slightly taller than the women. Nobody is a child or a kitten.
+
+CHARACTERS (identical in every shot):
+- CHAKILITA (narrator): adult female orange cat, long light-brown hair, GREEN eyes, round glasses, pink sequined takchita.
+- HABIBA (the mother): adult chubby orange female cat, long wavy black hair, BROWN eyes, black round glasses, gold forehead jewelry, deep-red velvet kaftan with gold embroidery.
+- ZOUITINA (Kim's wife): adult female orange cat, big curly auburn hair, BROWN eyes, gold earrings, emerald-green kaftan with a gold belt.
+- KIM: adult male orange tabby cat, AMBER-GOLD eyes, black Korean gat hat with a peacock feather, bright blue hanbok jacket with a red ribbon, beige baggy trousers. NO necklace. The gat stays on his head.
+- THE DIRECTOR: a friendly adult Korean CAT with gray-and-white fur, a beige cap, a headset and a dark vest, holding a megaphone.
+- THE FILM CREW: only CATS (gray, white, black and orange fur) in black T-shirts, operating cameras and lights. NO humans anywhere.
+- THE "GANG": the same cats in black suits and sunglasses from the reference; they are actors.
+
+LOCATION: ONE location only — the same hall with the golden throne, which is revealed to be a historical K-drama film set: painted palace scenery, big studio lights, film cameras on tripods. No other locations. No readable text, letters, numbers or logos anywhere (also not on cameras, clapboards or the megaphone).
+
+EXPRESSIONS: Habiba, Chakilita and Zouitina have clear, funny but warm expressions: surprise and amusement, no frowning, no anger.
+
+HOW TO SPEAK: Darija lines are written in Latin letters exactly as they must be pronounced; Korean lines are written in Korean with the pronunciation. Say every line from the FIRST word to the LAST word in exactly this order; never reverse the word order. The English in brackets is only the meaning and must NOT be spoken.
+
+SCENE 1 (0-2s): Exactly the situation of the left part of the reference: Kim sits on the big golden throne, looking scared after Zouitina's angry look; the suited cats stand behind him; Habiba, Zouitina and Chakilita stand in front of the throne. No dialogue.
+
+SCENE 2 (2-5s): The director cat walks in from the side with his megaphone and calls out happily:
+DIRECTOR says (Korean only): "컷! 좋아요! 아주 잘했어요!"
+[pronounced: keot! jo-a-yo! a-ju jal-hae-sseo-yo!]
+Kim's face changes from fear to joy and he jumps up from the throne. The suited cats take off their sunglasses and relax, smiling.
+
+SCENE 3 (5-9s): The camera pulls back and reveals the film set: studio lights, cameras, the cat film crew. Kim turns to his family and explains, smiling shyly:
+KIM says (Korean only): "어머님! 여기는 드라마 촬영장이에요!"
+[pronounced: eo-meo-nim! yeo-gi-neun deu-ra-ma chwa-ryeong-jang-i-e-yo!]
+Habiba opens her eyes wide in amused shock:
+HABIBA says (Moroccan Darija): "YA'-ni HAD-shi KA-mel GHIR tem-THEEL?!"
+[meaning: So all of this was just acting?!]
+
+SCENE 4 (9-15s): Habiba walks confidently to the director, points at herself and her red kaftan and says proudly:
+HABIBA says (Moroccan Darija): "WASH BA-qi 'and-KOM shi DOR l-l-MA-li-ka? RAH A-na WAJ-da!"
+[meaning: Do you still have a role for a queen? I'm ready!]
+The director looks at her with admiration:
+DIRECTOR says (Korean only): "완벽해요!"
+[pronounced: wan-byeok-hae-yo!]
+Habiba strikes a royal pose. In the SAME shot, Chakilita stands at the LEFT EDGE of the frame (she must not block Habiba), looks straight at the camera with a calm, sarcastic smile and says:
+CHAKILITA says (Moroccan Darija): "JEE-na n-NEQ-dhu Kim... l-QEE-na MA-ma BA-ghya t-KHTEF l-bu-TU-la!"
+[meaning: We came to rescue Kim... and found Mom wanting to steal the leading role!]
+LAST SECOND: hold on Habiba in her royal pose in front of the cameras, Kim beside her looking embarrassed, Zouitina laughing, with a short comic musical sting.
+
+Vertical 9:16, exactly 15 seconds, full frame with no black bars. Pixar-style 3D animated family comedy, accurate lip-sync, comic cinematic music with a sound effect when the film set is revealed. No subtitles, captions, titles, logos, watermarks or on-screen text anywhere.
+
+LANGUAGE RULES: Chakilita and Habiba speak Moroccan Darija only. Kim and the director speak Korean only; never make them speak Darija, Arabic or English. Zouitina only laughs. Only the lines above, no extra dialogue.
