@@ -1,0 +1,32 @@
+{
+  "number": 14,
+  "titleAr": "كيم والمخرج الكوري!",
+  "titleKo": "킴과 한국 영화감독!",
+  "video": "episodes/ep14.mp4",
+  "videoSeconds": 15.104,
+  "opening": "card",
+  "ending": true,
+  "nextTeaserAr": "",
+  "nextTeaserKo": "",
+  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
+  "cues": [
+    { "from": 2.1, "to": 4.35, "speaker": "director",
+      "text": "컷! 좋아요! 아주 잘했어요!",
+      "translation": "كات! مزيان! خدمتو مزيان بزاف!" },
+    { "from": 5.1, "to": 7.3, "speaker": "kim",
+      "text": "어머님! 여기는 드라마 촬영장이에요!",
+      "translation": "ماما! هنا بلاصة تصوير ديال مسلسل!" },
+    { "from": 7.4, "to": 8.8, "speaker": "habiba",
+      "text": "يعني هادشي كامل غير تمثيل؟!",
+      "translation": "그러니까 이게 다 연기였다고?!" },
+    { "from": 8.95, "to": 10.9, "speaker": "habiba",
+      "text": "واش باقي عندكم شي دور للملكة؟ راه أنا واجدة!",
+      "translation": "왕비 역할 아직 남았나요? 난 준비됐어요!" },
+    { "from": 10.95, "to": 11.75, "speaker": "director",
+      "text": "완벽해요!",
+      "translation": "ممتاز!" },
+    { "from": 11.85, "to": 14.9, "speaker": "chakilita",
+      "text": "جينا ننقذو كيم… لقينا ماما باغية تخطف البطولة!",
+      "translation": "킴을 구하러 왔는데… 엄마가 주인공 자리를 뺏으려 하네요!" }
+  ]
+}
