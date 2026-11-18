@@ -2,28 +2,52 @@
   "number": 13,
   "titleAr": "كيم هو الزعيم!",
   "titleKo": "킴이 보스였다!",
-  "video": "episodes/ep13.mp4",
-  "videoSeconds": 15.119,
+  "video": "episodes/ep13_original.mp4",
+  "videoSeconds": 15.104,
   "opening": "card",
   "ending": true,
   "nextTeaserAr": "الحلقة الجاية: مغامرة جديدة!",
   "nextTeaserKo": "다음 화: 새로운 모험!",
-  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
+  "subtitles": {
+    "bottom": 430,
+    "showSpeaker": true,
+    "showTranslation": true
+  },
   "cues": [
-    { "from": 0.95, "to": 2.6, "speaker": "chakilita",
+    {
+      "from": 0.95,
+      "to": 2.6,
+      "speaker": "chakilita",
       "text": "واش نتوما مستعدين للصدمة؟!",
-      "translation": "충격받을 준비 됐나요?!" },
-    { "from": 3.4, "to": 5.15, "speaker": "gang",
+      "translation": "충격받을 준비 됐나요?!"
+    },
+    {
+      "from": 3.4,
+      "to": 5.15,
+      "speaker": "gang",
       "text": "보스! 어서 오십시오!",
-      "translation": "الزعيم! مرحبا بيك!" },
-    { "from": 7.05, "to": 9.1, "speaker": "habiba",
+      "translation": "الزعيم! مرحبا بيك!"
+    },
+    {
+      "from": 7.05,
+      "to": 9.1,
+      "speaker": "habiba",
       "text": "آش هادشي آ كيم؟! واش نتا زعيم هاد العصابة؟!",
-      "translation": "킴, 이게 다 뭐니?! 네가 이 조직의 보스라고?!" },
-    { "from": 9.2, "to": 10.7, "speaker": "kim",
+      "translation": "킴, 이게 다 뭐니?! 네가 이 조직의 보스라고?!"
+    },
+    {
+      "from": 9.2,
+      "to": 10.7,
+      "speaker": "habiba",
       "text": "네! 제가 보스예요!",
-      "translation": "إيه! أنا هو الزعيم!" },
-    { "from": 10.9, "to": 14.0, "speaker": "habiba",
+      "translation": "إيه! أنا هو الزعيم!"
+    },
+    {
+      "from": 10.9,
+      "to": 14.0,
+      "speaker": "habiba",
       "text": "فالدار ما كيسمعش الهضرة… وهنا عندو عصابة كتسمع ليه؟!",
-      "translation": "집에서는 말도 안 듣는 애가… 여기선 말 잘 듣는 조직이 있다고?!" }
+      "translation": "집에서는 말도 안 듣는 애가… 여기선 말 잘 듣는 조직이 있다고?!"
+    }
   ]
 }
