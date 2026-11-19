@@ -1,0 +1,41 @@
+NEW TASK: create a brand-new VIDEO from scratch (moving pictures AND sound together, with lip-synced voices), as one single MP4 file. This is NOT an audio-only task and NOT an edit of a previous video.
+
+Generate exactly ONE video from the prompt below. Do not write a script, do not research, do not review, do not create extra files.
+
+The attached image is a CHARACTER REFERENCE. It is NOT a scene and must NEVER appear in the video. Copy the four characters' faces, hair, outfits, colors and SIZES exactly, in every shot. From left to right: CHAKILITA (pink takchita, glasses), HABIBA (deep-red velvet kaftan, glasses, gold forehead jewel), ZOUITINA (green kaftan, curly auburn hair), KIM (black gat hat, blue hanbok). IGNORE the small robot and the outdoor background. Never change anyone's outfit or colors; the props below are only ADDED on top.
+
+ALL FOUR are ADULTS of about the same height; Kim is slightly taller than the women. Nobody is a child or a kitten. No other characters appear.
+
+CHARACTERS:
+- CHAKILITA (narrator): adult female orange cat, long light-brown hair, GREEN eyes, round glasses, pink sequined takchita.
+- HABIBA (the mother): adult chubby orange female cat, long wavy black hair, BROWN eyes, black round glasses, gold forehead jewelry, deep-red velvet kaftan with gold embroidery.
+- ZOUITINA (Kim's wife): adult female orange cat, big thick curly auburn hair, BROWN eyes, gold earrings, emerald-green kaftan with a gold belt.
+- KIM: adult male orange tabby cat, AMBER-GOLD eyes, black Korean gat hat with a peacock feather, bright blue hanbok jacket with a red ribbon, beige baggy trousers. NO necklace. The gat stays on his head. Kim does NOT speak in this episode.
+
+LOCATION: ONE place only — a bright, cozy Korean self-photo studio (a four-cut photo booth) in a modern mall: a small booth with a pastel curtain, colorful soft lights, a basket of fun props (cat-ear headbands, big funny glasses), and a bench inside facing the camera. NO shop signs, NO screens with writing, NO letters, numbers or logos anywhere — not on the booth, not on the props, not on the printed photos.
+
+EXPRESSIONS: everyone is happy and playful. Habiba is calm, dignified and perfectly serious (not angry, not frowning) — like posing for an official ID photo. That contrast is the joke.
+
+HOW TO SPEAK: Darija lines are written in Latin letters exactly as they must be pronounced. Say every line from the FIRST word to the LAST word in exactly this order; never reverse the word order. The English in brackets is only the meaning and must NOT be spoken.
+
+SCENE 1 (0-2.5s): The family walks up to the colorful photo booth. Chakilita looks straight at the camera with a cheerful smile:
+CHAKILITA says (Moroccan Darija): "JEE-na nt-saw-WRU b-HAL l-ku-ri-YEEN..."
+[meaning: We came to take photos like the Koreans...]
+
+SCENE 2 (2.5-5s): All four squeeze into the booth and sit side by side on the bench, all clearly visible in one frame, seen from the booth's camera. Zouitina puts on a cat-ear headband and makes a cute pose; Kim puts on huge funny glasses over his eyes (gat still on) and makes a cute Korean V-sign; Chakilita smiles elegantly. Habiba watches them, puzzled, and straightens her glasses. No dialogue.
+
+SCENE 3 (5-9.5s): Four quick camera flashes, one after another. At each flash, Zouitina, Kim and Chakilita change to a new funny pose (Kim puffs out his cheeks). Habiba sits perfectly straight, paws folded in front of her, staring into the lens with the same serious face, never moving. The camera pushes in on Habiba as she says:
+HABIBA says (Moroccan Darija): "SA-fi! khal-LEW-ni n-KHREJ zwi-NA w-meh-TA-ra-ma!"
+[meaning: That's it! Let me come out pretty and respectable!]
+
+SCENE 4 (9.5-15s): Outside the booth, a long printed photo strip with FOUR pictures comes out of the slot (printing sound). The family looks at it: in all four pictures the others have different funny faces, while Habiba has exactly the same serious face and pose. Zouitina, Kim and Chakilita burst out laughing. Habiba holds the strip, puzzled:
+HABIBA says (Moroccan Darija): "WASH HA-du t-SA-wer WLA MLAF i-DA-ri?!"
+[meaning: Are these photos or an administrative file?!]
+In the SAME shot, Chakilita turns to the camera with a sarcastic smile:
+CHAKILITA says (Moroccan Darija): "dkhel-NA n-DEE-ru t-SA-wer tidh-ka-REE-ya... w MA-ma DA-rat LEE-na NSAKH men l-bi-TA-qa l-wa-ta-NEE-ya!"
+[meaning: We went in to take souvenir photos... and Mom made us copies of the national ID card!]
+LAST SECOND: close-up of Habiba seriously holding the photo strip while the family laughs behind her, with a short comic musical sting.
+
+Vertical 9:16, exactly 15 seconds, full frame with no black bars. Pixar-style 3D animated warm family comedy, quick natural movements, accurate lip-sync, cheerful comic music with camera-flash and printer sound effects. No subtitles, captions, titles, logos, watermarks or on-screen text anywhere.
+
+LANGUAGE RULES: Chakilita and Habiba speak Moroccan Darija only. Zouitina and Kim only laugh. Never make Kim speak. Only the lines above, no extra dialogue.
