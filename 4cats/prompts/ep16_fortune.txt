@@ -1,0 +1,53 @@
+NEW TASK: create a brand-new VIDEO from scratch (moving pictures AND sound together, with lip-synced voices), as one single MP4 file. This is NOT an audio-only task and NOT an edit of a previous video.
+
+Generate exactly ONE video from the prompt below. Do not write a script, do not research, do not review, do not create extra files. Follow the shot list EXACTLY, second by second.
+
+REFERENCE: the attached image is a CHARACTER REFERENCE, not a scene. Copy the four family characters' faces, hair, outfits, colors and SIZES exactly in every shot. From left to right: CHAKILITA (pink takchita, glasses), HABIBA (deep-red velvet kaftan, glasses, gold forehead jewel), ZOUITINA (green kaftan, curly auburn hair), KIM (black gat hat, blue hanbok). IGNORE the small robot and the background. Never change anyone's outfit or colors.
+
+CHARACTERS (all ADULTS; the family members are about the same height, Kim slightly taller; nobody is a child or a kitten):
+- CHAKILITA (narrator): adult female orange cat, long light-brown hair, GREEN eyes, round glasses, pink sequined takchita.
+- HABIBA: adult chubby orange female cat, long wavy black hair, BROWN eyes, black round glasses, gold forehead jewelry, deep-red velvet kaftan with gold embroidery.
+- ZOUITINA: adult female orange cat, big curly auburn hair, BROWN eyes, gold earrings, emerald-green kaftan with a gold belt.
+- KIM: adult male orange tabby cat, AMBER-GOLD eyes, black Korean gat hat with a peacock feather, bright blue hanbok jacket with a red ribbon, beige baggy trousers. NO necklace. The gat stays on his head. Kim NEVER speaks in this episode; he only reacts with his face. He is the only family member who understands Korean.
+- THE FORTUNE TELLER: an elderly Korean female cat with soft white-and-gray fur, half-closed wise eyes, a deep-purple and jade-green traditional hanbok, a small jade hairpin. Mysterious but playful. She speaks Korean only.
+
+LOCATIONS:
+- Shot 1: a narrow traditional Korean alley at dusk with red paper lanterns, in front of a tiny fortune-telling shop with a curtain door.
+- Shots 2-5: inside the tiny shop: dim warm light, red lanterns, a low round wooden table with a glowing crystal ball, a few brass coins, incense smoke.
+NO signs, NO talismans with writing, NO letters, numbers or logos anywhere.
+
+STAGING INSIDE THE SHOP: Habiba sits at the table facing the fortune teller. Chakilita, Zouitina and Kim stand in ONE row behind Habiba, from left to right: CHAKILITA, ZOUITINA, KIM. All faces are fully visible; nobody is hidden. Kim must always be clearly visible so we can see his reactions.
+
+EXPRESSIONS: Habiba is happy and proud. Zouitina and Chakilita are puzzled but amused. Only Kim gets more and more nervous. No anger, no frowning.
+
+HOW TO SPEAK: Darija lines are written in Latin letters exactly as they must be pronounced; Korean lines are written in Korean with the pronunciation. Say every line from the FIRST word to the LAST word in this exact order; never reverse the word order. The English in brackets is only the meaning and must NOT be spoken.
+
+SHOT LIST:
+
+0.0-2.5s — SHOT 1 (alley, medium shot): the family walks past the lantern-lit shop; Habiba stops, fascinated. Chakilita looks straight at the camera:
+CHAKILITA: "MA-ma BGHAT t-'REF mus-taq-BAL-ha... al-LAH y-STER!"
+[meaning: Mom wants to know her future... God help us!]
+
+2.5-6.5s — SHOT 2 (inside, medium-wide, following the STAGING): the fortune teller looks into the glowing crystal ball, then smiles mysteriously at Habiba:
+FORTUNE TELLER: "큰돈이 들어오겠어요… 그런데 사위가 다 쓰겠네요!"
+[pronounced: keun-don-i deu-reo-o-ge-sseo-yo... geu-reon-de sa-wi-ga da sseu-gen-ne-yo!]
+Habiba nods proudly as if she understood everything. Behind her, Kim's eyes go wide: he understood.
+
+6.5-9.5s — SHOT 3 (same framing): Habiba turns around to Zouitina, thrilled:
+HABIBA: "GA-let LEE-ya GHA-di n-WEL-li gha-NEE-ya w-mesh-HU-ra!"
+[meaning: She told me I'm going to be rich and famous!]
+Zouitina and Chakilita exchange puzzled looks. Kim slowly shakes his head, sweating.
+
+9.5-15.0s — SHOT 4 (same framing):
+9.5-11.5s: the fortune teller slowly points her paw straight at Kim and says in a low, mysterious voice:
+FORTUNE TELLER: "사위님… 다음 발명품, 조심하세요!"
+[pronounced: sa-wi-nim... da-eum bal-myeong-pum, jo-sim-ha-se-yo!]
+Kim gulps loudly and pulls his gat down over his eyes. Habiba, not understanding, stands up proudly and fixes her glasses like a millionaire.
+11.8-14.8s: Chakilita, at the LEFT edge of the frame (she must not block anyone), looks straight at the camera with a calm, sarcastic smile:
+CHAKILITA: "MA-ma feh-MAT GHIR l-FLOOS... w Kim FHEM KUL-shi!"
+[meaning: Mom only understood the money... and Kim understood everything!]
+14.8-15.0s: hold on Kim hiding under his gat while the crystal ball glows brighter, with a short mysterious-comic musical sting.
+
+Vertical 9:16, exactly 15 seconds, full frame with no black bars. Pixar-style 3D animated family comedy, fast comic timing, accurate lip-sync, mysterious music mixed with comedy. No subtitles, captions, titles, logos, watermarks or on-screen text anywhere.
+
+LANGUAGE RULES: Chakilita and Habiba speak Moroccan Darija only. The fortune teller speaks Korean only; never make her speak Darija, Arabic or English. Zouitina says nothing. Kim never speaks. Only the lines above, no extra dialogue.
