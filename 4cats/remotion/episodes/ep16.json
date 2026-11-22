@@ -1,0 +1,29 @@
+{
+  "number": 16,
+  "titleAr": "حبيبة مشات تقرا الطالع فكوريا!",
+  "titleKo": "하비바, 한국에서 점을 보다!",
+  "video": "episodes/ep16.mp4",
+  "videoSeconds": 15.083,
+  "opening": "card",
+  "ending": true,
+  "nextTeaserAr": "الحلقة الجاية: الاختراع الجديد ديال كيم!",
+  "nextTeaserKo": "다음 화: 킴의 새 발명품!",
+  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
+  "cues": [
+    { "from": 0.05, "to": 2.55, "speaker": "chakilita",
+      "text": "ماما بغات تعرف مستقبلها… الله يستر..",
+      "translation": "엄마가 미래를 알고 싶대요… 신이시여 도와주소서.." },
+    { "from": 2.7, "to": 5.95, "speaker": "fortuneTeller",
+      "text": "큰돈이 들어오겠어요… 그런데 사위가 다 쓰겠네요!",
+      "translation": "غادي تدخل ليك فلوس بزاف… ولكن الصهر غادي يصرفهم كاملين!" },
+    { "from": 6.1, "to": 9.15, "speaker": "habiba",
+      "text": "قالت ليا غادي نولي غنية ومشهورة!",
+      "translation": "나보고 부자가 되고 유명해진대!" },
+    { "from": 9.3, "to": 11.2, "speaker": "fortuneTeller",
+      "text": "사위님… 다음 발명품, 조심하세요!",
+      "translation": "آ الصهر… الاختراع الجاي، رد بالك!" },
+    { "from": 11.35, "to": 14.0, "speaker": "chakilita",
+      "text": "ما فهمات والو… وبدات كتوجد للثراء!",
+      "translation": "하나도 못 알아들었으면서… 벌써 부자 될 준비를 하네요!" }
+  ]
+}

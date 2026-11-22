@@ -27,7 +27,7 @@ export const COLORS = {
   teal: "#19b5b0",
 };
 
-export type SpeakerId = "habiba" | "chakilita" | "zouitina" | "kim" | "robot" | "attendant" | "kimMother" | "koreanFamily" | "photographer" | "gang" | "director";
+export type SpeakerId = "habiba" | "chakilita" | "zouitina" | "kim" | "robot" | "attendant" | "kimMother" | "koreanFamily" | "photographer" | "gang" | "director" | "fortuneTeller";
 
 export const SPEAKERS: Record<SpeakerId, { ar: string; ko: string; color: string }> = {
   habiba: { ar: "حبيبة", ko: "하비바", color: "#c4162f" },
@@ -41,6 +41,7 @@ export const SPEAKERS: Record<SpeakerId, { ar: string; ko: string; color: string
   photographer: { ar: "المصوّر", ko: "사진작가", color: "#6b7280" },
   gang: { ar: "العصابة", ko: "조직원들", color: "#1f2937" },
   director: { ar: "المخرج", ko: "감독", color: "#b45309" },
+  fortuneTeller: { ar: "العرافة", ko: "점쟁이", color: "#6d28d9" },
 };
 
 // Arabic text needs RTL, Korean LTR. Detect from the first strong character.
