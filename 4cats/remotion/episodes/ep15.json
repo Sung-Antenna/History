@@ -2,25 +2,45 @@
   "number": 15,
   "titleAr": "العائلة دخلات فوتوبوث كوري!",
   "titleKo": "가족, 한국 네컷 사진관에 가다!",
-  "video": "episodes/ep15.mp4",
-  "videoSeconds": 15.104,
+  "video": "episodes/ep15_strip.mp4",
+  "videoSeconds": 17.157,
   "opening": "card",
   "ending": true,
   "nextTeaserAr": "",
   "nextTeaserKo": "",
-  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
+  "subtitles": {
+    "bottom": 430,
+    "showSpeaker": true,
+    "showTranslation": true
+  },
   "cues": [
-    { "from": 0.07, "to": 1.9, "speaker": "chakilita",
+    {
+      "from": 0.07,
+      "to": 1.9,
+      "speaker": "chakilita",
       "text": "جينا نتصورو بحال الكوريين…",
-      "translation": "우리도 한국 사람들처럼 사진 찍으러 왔어요…" },
-    { "from": 3.3, "to": 5.4, "speaker": "habiba",
+      "translation": "우리도 한국 사람들처럼 사진 찍으러 왔어요…"
+    },
+    {
+      "from": 3.3,
+      "to": 5.4,
+      "speaker": "habiba",
       "text": "صافي! خليوني نخرج زوينة ومحترمة!",
-      "translation": "됐다! 예쁘고 점잖게 나오게 해 줘!" },
-    { "from": 8.85, "to": 11.0, "speaker": "habiba",
+      "translation": "됐다! 예쁘고 점잖게 나오게 해 줘!"
+    },
+    {
+      "from": 8.85,
+      "to": 11.0,
+      "speaker": "habiba",
       "text": "واش هادو تصاور ولا ملف إداري؟!",
-      "translation": "이게 사진이야, 아니면 관공서 서류야?!" },
-    { "from": 11.3, "to": 14.95, "speaker": "chakilita",
+      "translation": "이게 사진이야, 아니면 관공서 서류야?!"
+    },
+    {
+      "from": 13.3,
+      "to": 16.95,
+      "speaker": "chakilita",
       "text": "دخلنا نديرو تصاور تذكارية… وماما دارت لينا نسخ من البطاقة الوطنية!",
-      "translation": "추억 사진 찍으러 들어갔는데… 엄마는 주민등록증 사본을 뽑아 왔네요!" }
+      "translation": "추억 사진 찍으러 들어갔는데… 엄마는 주민등록증 사본을 뽑아 왔네요!"
+    }
   ]
 }
