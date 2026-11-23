@@ -2,8 +2,8 @@
   "number": 16,
   "titleAr": "حبيبة مشات تقرا الطالع فكوريا!",
   "titleKo": "하비바, 한국에서 점을 보다!",
-  "video": "episodes/ep16.mp4",
-  "videoSeconds": 15.083,
+  "video": "episodes/ep16_v3_original.mp4",
+  "videoSeconds": 15.102,
   "opening": "card",
   "ending": true,
   "nextTeaserAr": "الحلقة الجاية: الاختراع الجديد ديال كيم!",
@@ -22,8 +22,8 @@
       "translation": "엄마가 미래를 알고 싶대요… 신이시여 도와주소서.."
     },
     {
-      "from": 2.75,
-      "to": 7.05,
+      "from": 2.85,
+      "to": 6.2,
       "speaker": "fortuneTeller",
       "text": "큰돈이 들어오겠어요… 그런데 사위가 다 쓰겠네요!",
       "translation": "غادي تدخل ليك فلوس بزاف… ولكن الصهر غادي يصرفهم كاملين!"
@@ -36,8 +36,8 @@
       "translation": "나보고 부자가 되고 유명해진대!"
     },
     {
-      "from": 9.55,
-      "to": 12.85,
+      "from": 9.65,
+      "to": 11.8,
       "speaker": "fortuneTeller",
       "text": "사위님… 다음 발명품, 조심하세요!",
       "translation": "آ الصهر… الاختراع الجاي، رد بالك!"
