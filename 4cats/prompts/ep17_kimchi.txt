@@ -1,0 +1,64 @@
+NEW TASK: create a brand-new VIDEO from scratch (moving pictures AND sound together, with lip-synced voices), as one single MP4 file. This is NOT an audio-only task and NOT an edit of a previous video.
+
+Generate exactly ONE video from the prompt below. Do not write a script, do not research, do not review, do not create extra files. Follow the shot list EXACTLY, second by second.
+
+REFERENCE BOARD (not a scene, never shown): copy faces, hair, outfits, colors and sizes EXACTLY.
+- LEFT part: use ONLY the first two cats from the left: CHAKILITA (pink takchita) and HABIBA (red kaftan). IGNORE the green-kaftan cat, the cat in the black hat, the robot and the background: they are NOT in this video.
+- RIGHT part: KIM'S MOTHER (blue hanbok, light-blue scarf, hair in a bun).
+
+HOW TO TELL THE CHARACTERS APART (use the clothes color to identify who speaks):
+- RED = HABIBA: adult chubby orange female cat, long wavy BLACK hair, BROWN eyes, black round glasses, GOLD forehead jewelry, deep-RED velvet kaftan with gold embroidery. Proud, cheerful cook.
+- PINK = CHAKILITA: adult female orange cat, long LIGHT-BROWN hair, GREEN eyes, round glasses, PINK sequined takchita. The narrator. She speaks only the LAST line.
+- BLUE = KIM'S MOTHER: elderly orange tabby cat, silver-white fur on muzzle and cheeks, DARK-BROWN eyes, dark hair with silver strands in a low bun with a silver hairpin, a pale-blue floral silk scarf with a pearl edge, periwinkle-BLUE jeogori and navy-BLUE chima. Kind and polite. Speaks Korean only.
+All three are ADULTS; Kim's mother is a little shorter and rounder. No other characters.
+
+THE MOST IMPORTANT RULE — ONE SPEAKER PER SHOT: every line is spoken in its own CLOSE-UP that shows ONLY the speaker. The wide shots have NO dialogue at all; everyone keeps their mouth closed there.
+
+SPEAKING ORDER (exactly 5 lines, nobody else speaks):
+1) 2.1-3.4s   — KIM'S MOTHER (blue), solo close-up
+2) 3.7-5.9s   — HABIBA (red), solo close-up
+3) 7.9-9.1s   — KIM'S MOTHER (blue), solo close-up
+4) 9.3-10.9s  — HABIBA (red), solo close-up
+5) 11.9-14.8s — CHAKILITA (pink), solo close-up
+
+LOCATION: ONE place — a cozy traditional Korean kitchen: wooden counters, large clay onggi jars, a big steel bowl of napa cabbage leaves, a bowl of red chili paste. Habiba has her own small wooden box of Moroccan spices (cumin, paprika, coriander) in little unlabeled jars. NO labels, letters, numbers or logos anywhere.
+
+STAGING for the wide shots: Kim's mother on the RIGHT, Habiba in the CENTER, both at the counter; Chakilita stands on the LEFT, watching. Nobody is hidden.
+
+EXPRESSIONS: Habiba is happy and proud. Kim's mother is kind, then politely shocked (funny, not angry). Chakilita is calm and sarcastic.
+
+HOW TO SPEAK: Darija lines are written in Latin letters exactly as they must be pronounced; Korean lines in Korean with the pronunciation. Say every line from the FIRST word to the LAST word in this exact order; never reverse the word order. The English in brackets is only the meaning and must NOT be spoken.
+
+SHOT LIST:
+
+SHOT 1 — 0.0-2.0s — WIDE (staging), NO dialogue: Kim's mother smiles and shows Habiba a cabbage leaf; Habiba watches with curiosity; Chakilita watches on the left.
+
+SHOT 2 — 2.0-3.6s — CLOSE-UP of KIM'S MOTHER (blue) alone, spreading red chili paste on a cabbage leaf with her paws, smiling:
+2.1-3.4s — KIM'S MOTHER: "이렇게 하면 돼요!"
+[pronounced: i-reo-ke ha-myeon dwae-yo!]
+
+SHOT 3 — 3.6-6.0s — CLOSE-UP of HABIBA (red) alone, looking at the chili paste, unconvinced, one eyebrow raised:
+3.7-5.9s — HABIBA: "WASH GHIR HA-du? FEEN l-ka-MOON w-t-tah-MEE-ra?"
+[meaning: Only this? Where are the cumin and the paprika?]
+
+SHOT 4 — 6.0-7.8s — WIDE (staging), NO dialogue: Habiba happily opens her Moroccan spice box and pours huge amounts of cumin, paprika and coriander over the cabbage, mixing with both paws; a colorful spice cloud puffs up. Kim's mother freezes, eyes wide.
+
+SHOT 5 — 7.8-9.2s — CLOSE-UP of KIM'S MOTHER (blue) alone, paws on her cheeks, shocked:
+7.9-9.1s — KIM'S MOTHER: "어머! 이게 뭐예요?!"
+[pronounced: eo-meo! i-ge mwo-ye-yo?!]
+
+SHOT 6 — 9.2-11.0s — CLOSE-UP of HABIBA (red) alone, proudly holding out a bowl of her orange-red spiced cabbage:
+9.3-10.9s — HABIBA: "DOO-qi a LAL-la, HA-da HU-wa l-ma-DHAQ!"
+[meaning: Taste it, madam, this is real flavor!]
+
+SHOT 7 — 11.0-11.8s — CLOSE-UP of KIM'S MOTHER (blue), NO dialogue, mouth closed: she tastes a small bite, her eyes pop wide open in comic shock, her ears stand straight up.
+
+SHOT 8 — 11.8-15.0s — CLOSE-UP of CHAKILITA (pink) alone; Habiba and Kim's mother are NOT in this shot:
+11.9-14.8s — CHAKILITA, looking straight at the camera with a calm, sarcastic smile:
+"UMM Kim 'al-LMAT-ha l-KEEM-chi... w MA-ma hew-LAT-u l-shar-MOO-la ku-REE-ya!"
+[meaning: Kim's mom taught her kimchi... and Mom turned it into a Korean charmoula!]
+14.8-15.0s: hold, short comic musical sting.
+
+Vertical 9:16, exactly 15 seconds, full frame with no black bars. Pixar-style 3D animated family comedy, fast natural movements, accurate lip-sync, light comic music with funny sound effects. No subtitles, captions, titles, logos, watermarks or on-screen text anywhere.
+
+LANGUAGE RULES: Habiba and Chakilita speak Moroccan Darija only. Kim's mother speaks Korean only; never make her speak Darija, Arabic or English. Only the 5 lines above, no extra dialogue.
