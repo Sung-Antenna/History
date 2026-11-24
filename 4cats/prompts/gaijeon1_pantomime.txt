@@ -1,0 +1,21 @@
+NEW TASK: create a brand-new VIDEO from scratch, as one single MP4 file. This is NOT an audio-only task and NOT an edit of another video.
+
+Generate exactly ONE video from the prompt below. Do not write a script, do not research, do not review, do not create extra files. Follow the shot list EXACTLY, second by second.
+
+A SILENT PANTOMIME: nobody speaks. No dialogue, no voice, no words. Only music and small sound effects. The story is told only with faces and body language.
+
+REFERENCE: the attached image is a CHARACTER REFERENCE, not a scene. Use ONLY two characters from it and copy them exactly: ZOUITINA (third from the left, emerald-green kaftan, curly auburn hair) and KIM (far right, black gat hat, blue hanbok). IGNORE Chakilita, Habiba, the small robot and the background: they are NOT in this video.
+
+CHARACTERS (both ADULTS; Kim is slightly taller than Zouitina; neither is a child or a kitten):
+- KIM: adult male orange tabby cat, AMBER-GOLD eyes, black Korean gat hat with a peacock feather, bright blue hanbok jacket with a red ribbon, beige baggy trousers, black shoes. NO necklace.
+- ZOUITINA (Kim's wife): adult female orange cat, big curly auburn hair, BROWN eyes, gold earrings, emerald-green kaftan with a gold belt.
+
+SHOT LIST:
+
+0.0-2.0s — SHOT 1 "BEFORE THE WEDDING": a wooden pier over the sea at a glowing pink-and-orange sunset. Kim stands proudly in the middle of the pier carrying Zouitina on his back (piggyback). He raises one paw high in a confident V-sign, chest out, with a huge proud grin, as if saying "I can handle anything!". Zouitina, on his back, smiles happily. Romantic, epic music.
+
+2.0-3.6s — SHOT 2 "KIM AFTER THE WEDDING": hard cut, the music stops with a record-scratch sound. In a messy Moroccan living room (red sofas, a laundry basket, scattered cushions, a pile of dishes), adult Kim sits on the floor and cries loudly like a little baby: mouth wide open, big comical tears streaming, his gat tilted sideways, legs stretched out, helplessly holding a small broken gadget. Comic crying sound effect (not words).
+
+3.6-5.5s — SHOT 3 "ZOUITINA": in the same living room, Zouitina sits calmly and relaxed on the red sofa, legs crossed, sipping a glass of mint tea. She slowly turns her head to look straight at the camera with a deadpan, satisfied, slightly smug expression and a tiny shrug, as if saying "You wanted to marry me. Your problem." Behind her, blurred, Kim is still crying on the floor. A short comic musical sting at the end.
+
+STYLE: Pixar-style 3D animation, vertical 9:16, exactly 5.5 seconds, full frame with no black bars. Clear, exaggerated facial expressions and body language. Kim crying is funny and cartoonish, never sad or scary. No text, captions, subtitles, titles, logos, watermarks or usernames anywhere.
