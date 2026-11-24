@@ -1,0 +1,25 @@
+{
+  "number": 1,
+  "labelAr": "حلقة خاصة",
+  "labelKo": "외전",
+  "titleAr": "قبل الزواج وبعده",
+  "titleKo": "결혼 전, 결혼 후",
+  "video": "episodes/gaijeon1.mp4",
+  "videoSeconds": 5.184,
+  "opening": "card",
+  "ending": true,
+  "nextTeaserAr": "",
+  "nextTeaserKo": "",
+  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
+  "cues": [
+    { "from": 0.1, "to": 2.0, "speaker": "kim",
+      "text": "لنتزوّج! سأتكفّل بكل شيء!",
+      "translation": "결혼하자! 내가 다 책임질게!" },
+    { "from": 2.1, "to": 3.4, "speaker": "kim",
+      "text": "بعد الزواج…",
+      "translation": "결혼 후…" },
+    { "from": 3.5, "to": 5.15, "speaker": "zouitina",
+      "text": "أنتَ من طلب الزواج…",
+      "translation": "결혼하자고 한 건 너잖아…" }
+  ]
+}

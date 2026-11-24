@@ -39,8 +39,10 @@ export const SeriesSubtitle: React.FC<{ size: number; style?: React.CSSPropertie
 );
 
 /** Episode badge: «الحلقة 3 · قوانين الدار» + Korean line underneath. */
-export const EpisodeBadge: React.FC<{ number: number; titleAr: string; titleKo: string; scale?: number }> = ({
+export const EpisodeBadge: React.FC<{ number: number; titleAr: string; titleKo: string; scale?: number; labelAr?: string; labelKo?: string }> = ({
   number,
+  labelAr,
+  labelKo,
   titleAr,
   titleKo,
   scale = 1,
@@ -62,12 +64,12 @@ export const EpisodeBadge: React.FC<{ number: number; titleAr: string; titleKo: 
         color: COLORS.cream,
       }}
     >
-      <span style={{ color: COLORS.gold }}>الحلقة {number}</span>
+      <span style={{ color: COLORS.gold }}>{labelAr ?? `الحلقة ${number}`}</span>
       <span style={{ opacity: 0.6 }}>·</span>
       <span>{titleAr}</span>
     </div>
     <div style={{ fontFamily: FONT_KO_TITLE, fontSize: 40 * scale, color: COLORS.goldLight, textShadow: "0 3px 10px rgba(0,0,0,0.8)" }}>
-      {number}화 · {titleKo}
+      {labelKo ?? `${number}화`} · {titleKo}
     </div>
   </div>
 );

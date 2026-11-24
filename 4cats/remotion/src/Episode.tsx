@@ -7,6 +7,9 @@ import { COLORS, FPS } from "./theme";
 
 export type EpisodeProps = {
   number: number;
+  /** optional badge label instead of "الحلقة N" / "N화" (e.g. for side stories) */
+  labelAr?: string;
+  labelKo?: string;
   titleAr: string;
   titleKo: string;
   /** path inside public/, e.g. "episodes/ep3.mp4" */
@@ -32,7 +35,7 @@ export const Episode: React.FC<EpisodeProps> = (p) => {
     <AbsoluteFill style={{ backgroundColor: COLORS.night }}>
       {p.opening === "card" && (
         <Sequence durationInFrames={OPENING_FRAMES} name="Opening">
-          <Opening number={p.number} titleAr={p.titleAr} titleKo={p.titleKo} />
+          <Opening number={p.number} titleAr={p.titleAr} titleKo={p.titleKo} labelAr={p.labelAr} labelKo={p.labelKo} />
         </Sequence>
       )}
 
@@ -40,7 +43,7 @@ export const Episode: React.FC<EpisodeProps> = (p) => {
         {/* source clips are 768x1344; cover-fit to 1080x1920 */}
         <OffthreadVideo src={staticFile(p.video)} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
         <Subtitles cues={p.cues} style={p.subtitles} />
-        {p.opening === "overlay" && <TitleOverlay number={p.number} titleAr={p.titleAr} titleKo={p.titleKo} />}
+        {p.opening === "overlay" && <TitleOverlay number={p.number} titleAr={p.titleAr} titleKo={p.titleKo} labelAr={p.labelAr} labelKo={p.labelKo} />}
       </Sequence>
 
       {p.ending && (

@@ -4,12 +4,12 @@ import { ArchCast, Star, ZelligeBackground } from "./components/Decor";
 import { EpisodeBadge, SeriesSubtitle, SeriesTitle } from "./components/Titles";
 import { COLORS } from "./theme";
 
-export type OpeningProps = { number: number; titleAr: string; titleKo: string };
+export type OpeningProps = { number: number; titleAr: string; titleKo: string; labelAr?: string; labelKo?: string };
 
 export const OPENING_FRAMES = 48; // 2 s at 24 fps
 
 /** Full-screen title card (2 s) shown before the episode. */
-export const Opening: React.FC<OpeningProps> = ({ number, titleAr, titleKo }) => {
+export const Opening: React.FC<OpeningProps> = ({ number, titleAr, titleKo, labelAr, labelKo }) => {
   const frame = useCurrentFrame();
   const { fps, durationInFrames } = useVideoConfig();
   const pop = (delay: number, damping = 11) => spring({ frame: frame - delay, fps, config: { damping, mass: 0.6 } });
@@ -55,7 +55,7 @@ export const Opening: React.FC<OpeningProps> = ({ number, titleAr, titleKo }) =>
 
         <AbsoluteFill style={{ alignItems: "center", top: 1410 }}>
           <div style={{ transform: `scale(${badge})`, opacity: badge }}>
-            <EpisodeBadge number={number} titleAr={titleAr} titleKo={titleKo} />
+            <EpisodeBadge number={number} titleAr={titleAr} titleKo={titleKo} labelAr={labelAr} labelKo={labelKo} />
           </div>
         </AbsoluteFill>
       </AbsoluteFill>
@@ -72,7 +72,7 @@ export const Opening: React.FC<OpeningProps> = ({ number, titleAr, titleKo }) =>
  * Lighter alternative for Reels: the episode starts immediately (no lost hook) and a
  * compact title banner slides in at the top for the first ~2.5 s, then slides away.
  */
-export const TitleOverlay: React.FC<OpeningProps> = ({ number, titleAr, titleKo }) => {
+export const TitleOverlay: React.FC<OpeningProps> = ({ number, titleAr, titleKo, labelAr, labelKo }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const inP = spring({ frame: frame - 2, fps, config: { damping: 13, mass: 0.6 } });
@@ -90,7 +90,7 @@ export const TitleOverlay: React.FC<OpeningProps> = ({ number, titleAr, titleKo 
       <AbsoluteFill style={{ alignItems: "center", top: 190, transform: `translateY(${y}px)` }}>
         <SeriesTitle size={120} />
         <div style={{ marginTop: 4 }}>
-          <EpisodeBadge number={number} titleAr={titleAr} titleKo={titleKo} scale={0.78} />
+          <EpisodeBadge number={number} titleAr={titleAr} titleKo={titleKo} labelAr={labelAr} labelKo={labelKo} scale={0.78} />
         </div>
       </AbsoluteFill>
       <Sequence from={2}>
