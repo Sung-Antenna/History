@@ -4,11 +4,11 @@ Generate exactly ONE video from the prompt below. Do not write a script, do not 
 
 A SILENT PANTOMIME: nobody speaks. No dialogue, no voice, no words. Only music and small sound effects. The story is told only with faces and body language.
 
-REFERENCE: the attached image is a CHARACTER REFERENCE, not a scene. Use ONLY two characters from it and copy them exactly: ZOUITINA (third from the left, emerald-green kaftan, curly auburn hair) and KIM (far right, black gat hat, blue hanbok). IGNORE Chakilita, Habiba, the small robot and the background: they are NOT in this video.
+REFERENCE: the attached image is a CHARACTER REFERENCE, not a scene. Copy the two cats EXACTLY as they look in it, in every shot: ZOUITINA on the LEFT and KIM on the RIGHT. IGNORE the small white robot and the background (boats, water, mosaic pillar): they are NOT in this video.
 
-CHARACTERS (both ADULTS; Kim is slightly taller than Zouitina; neither is a child or a kitten):
-- KIM: adult male orange tabby cat, AMBER-GOLD eyes, black Korean gat hat with a peacock feather, bright blue hanbok jacket with a red ribbon, beige baggy trousers, black shoes. NO necklace.
-- ZOUITINA (Kim's wife): adult female orange cat, big curly auburn hair, BROWN eyes, gold earrings, emerald-green kaftan with a gold belt.
+CHARACTERS (both ADULTS of about the same height, Kim slightly taller; neither is a child or a kitten):
+- KIM (husband): adult male orange tabby cat with dark tabby stripes, GREEN eyes, a wide black Korean gat hat with a peacock feather and a long colorful bead strap hanging on his chest, a royal-BLUE patterned hanbok jacket with a big RED sash bow at the waist, loose cream-white baggy trousers, white socks, black-and-white shoes.
+- ZOUITINA (wife): adult female orange cat, big wavy bright-ORANGE-red hair, golden-brown eyes with long lashes, a long full emerald-GREEN kaftan dress with rich gold embroidery and gold buttons down the front, reaching the floor.
 
 SHOT LIST:
 
