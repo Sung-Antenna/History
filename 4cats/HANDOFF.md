@@ -307,3 +307,6 @@ Manus 프롬프트용 영어 묘사:
 ### ✅ 외전 1 «قبل الزواج وبعده» / 결혼 전, 결혼 후 (완성, 5.2초 판토마임)
 프롬프트 `prompts/gaijeon1_pantomime.txt`, 참조 `reference/kim_zouitina_amber.png`(눈을 호박색으로 보정). 자막 `remotion/episodes/gaijeon1.json`.
 이번부터 자막은 표준 아랍어 + 한국어(모로코 다리자 제외, 사용자 결정). 오프닝 배지는 `labelAr`/`labelKo`로 «حلقة خاصة» / "외전" 표시.
+
+### ✅ 17화 «حبيبة والكيمتشي الكوري!» / 하비바와 한국 김치! (완성)
+프롬프트 `prompts/ep17_kimchi.txt`, 보드 `reference/board_ep17.jpg`, 자막 `remotion/episodes/ep17.json`(표준 아랍어+한국어). 마지막 샤킬리타 장면은 입이 거의 움직이지 않지만 사용자 결정으로 그대로 사용.

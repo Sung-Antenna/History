@@ -1,0 +1,29 @@
+{
+  "number": 17,
+  "titleAr": "حبيبة والكيمتشي الكوري!",
+  "titleKo": "하비바와 한국 김치!",
+  "video": "episodes/ep17.mp4",
+  "videoSeconds": 15.083,
+  "opening": "card",
+  "ending": true,
+  "nextTeaserAr": "",
+  "nextTeaserKo": "",
+  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
+  "cues": [
+    { "from": 2.25, "to": 3.35, "speaker": "kimMother",
+      "text": "이렇게 하면 돼요!",
+      "translation": "هكذا تُصنع!" },
+    { "from": 3.55, "to": 5.9, "speaker": "habiba",
+      "text": "هل هذا كل شيء؟ أين الكمّون والفلفل الأحمر؟",
+      "translation": "이게 다예요? 커민이랑 파프리카는 어디 있어요?" },
+    { "from": 7.85, "to": 9.1, "speaker": "kimMother",
+      "text": "어머! 이게 뭐예요?!",
+      "translation": "يا إلهي! ما هذا؟!" },
+    { "from": 9.25, "to": 10.9, "speaker": "habiba",
+      "text": "تذوّقي يا سيدتي، هذا هو الطعم الحقيقي!",
+      "translation": "드셔 보세요, 사모님. 이게 진짜 맛이에요!" },
+    { "from": 12.0, "to": 14.95, "speaker": "chakilita",
+      "text": "علّمتها أمّ كيم الكيمتشي… فحوّلته أمّي إلى شرمولة كورية!",
+      "translation": "킴 어머니가 김치를 가르쳐 줬더니… 엄마가 한국식 셰르물라로 바꿔 버렸어요!" }
+  ]
+}
