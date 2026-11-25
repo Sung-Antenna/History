@@ -232,8 +232,17 @@ def analyze(bars, wave_min_move=0.004):
         middle_high = max(highs[p_idx:r_idx + 1])
         double_bottom = middle_high >= prior_low * 1.01 and price > recent_low
 
+    # 바람의 방향 (사용자 정의): 이번 달 첫 거래일 시가(= 월봉 시가) 위면 바람이 위, 아래면 아래.
+    # 월초 약 3거래일은 지켜본 뒤 판단한다 (100%는 아님). 일봉 데이터에서만 의미가 있다.
+    month = bars[i]["t"][:7]
+    m_idx = next(k for k in range(i, -1, -1) if k == 0 or bars[k - 1]["t"][:7] != month)
+    month_open = bars[m_idx]["o"]
+    month_days = i - m_idx + 1
+
     gc_idx, gc_kind = last_cross(mas[20], mas[60])
     return {
+        "month_open": month_open,
+        "month_days": month_days,
         "time": bars[i]["t"],
         "price": price,
         "ma": {str(n): (round(v, 2) if v is not None else None) for n, v in cur.items()},
@@ -279,6 +288,10 @@ def signals(tf, a):
         if st["confirmed_breakout"]:
             s.append(f"{tf}: ★★ 60선 안착 후 앞고점 {st['prior_high']:.2f} 돌파({tag}) = 일봉상 의미 있는 상승")
     s.append(f"{tf}: 240선 {'위' if a['above_240'] else '아래'}")
+    if tf == "일봉":
+        up = a["price"] > a["month_open"]
+        watch = " (월초 3일 관찰 중)" if a["month_days"] <= 3 else ""
+        s.append(f"{tf}: 바람의 방향 {'위' if up else '아래'} — 월 시가 {a['month_open']:.2f} {'위' if up else '아래'}{watch}")
     return s
 
 
@@ -293,6 +306,8 @@ def fmt(tf, a, ratio):
     if a["bb"]:
         lines.append(f"  볼린저: {nd(a['bb'][0])} ~ {nd(a['bb'][2])}")
     lines.append(f"  최근 저점 {nd(a['recent_low'])} / 이전 저점 {nd(a['prior_low'])}")
+    if tf == "일봉":
+        lines.append(f"  월 시가(바람의 방향 기준선) {nd(a['month_open'])}  / 이번 달 {a['month_days']}거래일째")
     return "\n".join(lines)
 
 
