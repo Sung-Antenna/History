@@ -1,4 +1,4 @@
-NEW TASK: create a brand-new 10-second VIDEO from scratch (moving pictures AND sound together), as one single MP4 file. This is NOT an audio-only task and NOT an edit of another video.
+NEW TASK: create a brand-new 5-second VIDEO from scratch (moving pictures AND sound together), as one single MP4 file. This is NOT an audio-only task and NOT an edit of another video.
 
 Generate exactly ONE video from the prompt below. Do not write a script, do not research, do not review, do not create extra files. Follow the shot list EXACTLY.
 
@@ -15,16 +15,16 @@ SOUND: quiet night ambience and soft playful music. Small sound effects only: ro
 
 SHOT LIST:
 
-0.0-1.5s — WIDE: Kim and Zouitina sleep peacefully side by side in bed. At the foot of the bed, the robot rests on its charging spot, eyes dim.
+0.0-0.5s — WIDE: Kim and Zouitina sleep side by side in bed; the robot rests at the foot of the bed, eyes dim.
 
-1.5-5.0s — MEDIUM on Kim: still fast asleep with his eyes CLOSED, Kim suddenly raises one paw and points his index finger into the air, very serious, pointing slowly in different directions: up at the ceiling, then toward the door, then toward the window. His mouth stays closed. At each point, the robot's eyes light up bright blue, it beeps happily and turns its head (and rolls a little) toward where Kim points, eager to obey.
+0.5-2.3s — MEDIUM on Kim: still fast asleep with his eyes CLOSED and mouth closed, Kim suddenly raises one paw and points his index finger into the air, very serious: up at the ceiling, then toward the door. At each point, the robot's eyes light up bright blue, it beeps and quickly turns its head toward where Kim points.
 
-5.0-6.5s — Kim's paw suddenly drops onto the blanket and he snores loudly: "ZZZ-rrrrr!" (cartoon snore, his cheeks puffing). The robot stops, confused, and tilts its head left and right.
+2.3-3.0s — Kim's paw drops onto the blanket and he snores loudly: "ZZZ-rrrr!" (cartoon snore). The robot stops and tilts its head, confused.
 
-6.5-9.0s — CLOSE on the couple: Zouitina, half asleep with her eyes half closed and a tender smile, gently pats Kim's chest and strokes his head, and whispers softly with accurate lip-sync:
+3.0-4.3s — CLOSE on the couple: Zouitina, half asleep with a tender smile, gently pats Kim's chest and whispers softly with accurate lip-sync:
 ZOUITINA: "Okay, okay…"
-Kim smiles happily in his sleep and snuggles into the pillow.
+Kim smiles in his sleep.
 
-9.0-10.0s — CLOSE on the robot: it slowly raises its little arm and points at the air exactly like Kim did, then its blue eyes turn into sleepy half-moon shapes and it gives a tiny "beep… beep…" snore. Hold this last cute image.
+4.3-5.0s — CLOSE on the robot: it raises its little arm and points at the air like Kim, then its blue eyes turn into sleepy half-moon shapes with a tiny "beep…" snore. Hold this last image.
 
-Vertical 9:16, exactly 10 seconds, full frame with no black bars. Pixar-style 3D animation, gentle and funny, soft night lighting. No subtitles, captions, titles, logos, watermarks or on-screen text anywhere.
+Vertical 9:16, exactly 5 seconds, fast and snappy comic timing, full frame with no black bars. Pixar-style 3D animation, gentle and funny, soft night lighting. No subtitles, captions, titles, logos, watermarks or on-screen text anywhere.
