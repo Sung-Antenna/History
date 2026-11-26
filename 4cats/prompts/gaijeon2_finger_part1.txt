@@ -1,0 +1,24 @@
+NEW TASK: create a brand-new 5-second VIDEO from scratch (moving pictures AND sound together), as one single MP4 file. This is NOT an audio-only task and NOT an edit of another video.
+
+Generate exactly ONE video from the prompt below. Do not write a script, do not research, do not review, do not create extra files. Follow the shot list EXACTLY.
+
+REFERENCE: the attached image is a CHARACTER REFERENCE, not a scene. Copy the two cats and the robot EXACTLY: ZOUITINA (left, emerald-green kaftan, curly orange-red hair), KIM (right, black gat hat with peacock feather, blue hanbok, red sash) and the small white ROBOT (round head, black face screen with glowing blue eyes, colorful star on its chest, wheels). Ignore the background.
+
+CHARACTERS (Kim and Zouitina are ADULTS, a married couple; nobody is a child or a kitten):
+- KIM: adult male orange tabby cat, AMBER-GOLD eyes (NOT green), black Korean gat hat with a peacock feather, slightly tilted while he sleeps, blue hanbok jacket with a red sash. He NEVER speaks: he only snores.
+- ZOUITINA: adult female orange cat, big curly orange-red hair, BROWN eyes, emerald-green kaftan. Sleepy, warm and loving.
+- THE ROBOT: small, cute, knee-high, white with teal trim, black face screen with two glowing BLUE eyes, a zellige star on its chest, wheels. It only beeps.
+
+LOCATION: a cozy Moroccan bedroom at night: soft blue moonlight through an arched window, a small warm lamp, a big bed with embroidered pillows. Dim but clearly visible. NO text, letters, numbers or logos anywhere.
+
+SOUND: quiet night ambience and soft playful music. Small sound effects only: robot beeps, Kim's cartoon snore. Nobody speaks in this part.
+
+SHOT LIST (PART 1 of 2):
+
+0.0-1.0s — WIDE: Kim and Zouitina sleep peacefully side by side in bed. At the foot of the bed, the robot rests on its charging spot, eyes dim.
+
+1.0-3.8s — MEDIUM on Kim, with the robot visible at the bottom of the frame: still fast asleep with his eyes CLOSED and his mouth closed, Kim suddenly raises one paw and points his index finger into the air, very serious, slowly pointing in different directions: up at the ceiling, then toward the door, then toward the window. At each point, the robot's eyes light up bright blue, it beeps happily and turns its head (and rolls a little) toward where Kim points, eager to obey.
+
+3.8-5.0s — Kim's paw suddenly drops onto the blanket and he snores loudly: "ZZZ-rrrrr!" (cartoon snore, cheeks puffing). The robot stops, confused, and tilts its head left and right. END the video on a WIDE view of the bed: Kim snoring, Zouitina still asleep next to him, the robot at the foot of the bed with its head tilted.
+
+Vertical 9:16, exactly 5 seconds, full frame with no black bars. Pixar-style 3D animation, gentle and funny, soft night lighting. No subtitles, captions, titles, logos, watermarks or on-screen text anywhere.

@@ -1,0 +1,26 @@
+NEW TASK: create a brand-new 5-second VIDEO from scratch (moving pictures AND sound together), as one single MP4 file. This is NOT an audio-only task and NOT an edit of another video.
+
+Generate exactly ONE video from the prompt below. Do not write a script, do not research, do not review, do not create extra files. Follow the shot list EXACTLY.
+
+START FRAME: the attached picture is the FIRST frame of this video (it is the last moment of part 1). Start exactly from this image: the same bedroom, the same lighting, the same characters, the same positions and the same camera. Then continue smoothly from it.
+
+CHARACTERS (Kim and Zouitina are ADULTS, a married couple; nobody is a child or a kitten):
+- KIM: adult male orange tabby cat, AMBER-GOLD eyes (NOT green), black Korean gat hat with a peacock feather, slightly tilted while he sleeps, blue hanbok jacket with a red sash. He NEVER speaks: he only snores.
+- ZOUITINA: adult female orange cat, big curly orange-red hair, BROWN eyes, emerald-green kaftan. Sleepy, warm and loving.
+- THE ROBOT: small, cute, knee-high, white with teal trim, black face screen with two glowing BLUE eyes, a zellige star on its chest, wheels. It only beeps.
+
+LOCATION: a cozy Moroccan bedroom at night: soft blue moonlight through an arched window, a small warm lamp, a big bed with embroidered pillows. Dim but clearly visible. NO text, letters, numbers or logos anywhere.
+
+SOUND: quiet night ambience and soft playful music. Small sound effects only: robot beeps, Kim's soft snoring. The ONLY spoken words in the whole video are Zouitina's soft "Okay, okay…".
+
+SHOT LIST (PART 2 of 2):
+
+0.0-0.7s — continue from the start frame: Kim keeps snoring softly; the robot still has its head tilted.
+
+0.7-3.5s — CLOSE on the couple: Zouitina, half asleep with her eyes half closed and a tender smile, gently pats Kim's chest and strokes his head, and whispers softly with accurate lip-sync:
+ZOUITINA: "Okay, okay…"
+Kim (eyes closed, mouth closed) smiles happily in his sleep and snuggles into the pillow.
+
+3.5-5.0s — CLOSE on the robot: it slowly raises its little arm and points at the air exactly like Kim did, then its blue eyes turn into sleepy half-moon shapes and it gives a tiny "beep… beep…" snore. Hold this last cute image.
+
+Vertical 9:16, exactly 5 seconds, full frame with no black bars. Pixar-style 3D animation, gentle and funny, soft night lighting. No subtitles, captions, titles, logos, watermarks or on-screen text anywhere.
