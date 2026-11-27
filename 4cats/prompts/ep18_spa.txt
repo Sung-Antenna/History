@@ -1,0 +1,60 @@
+NEW TASK: create a brand-new VIDEO from scratch (moving pictures AND sound together, with lip-synced voices), as one single MP4 file. This is NOT an audio-only task and NOT an edit of a previous video.
+
+Generate exactly ONE video from the prompt below. Do not write a script, do not research, do not review, do not create extra files. Follow the shot list EXACTLY, second by second.
+
+REFERENCE BOARD (not a scene, never shown): copy faces, hair and sizes EXACTLY.
+- LEFT part: use ONLY the first two cats from the left: CHAKILITA (pink takchita) and HABIBA (red kaftan). IGNORE the green-kaftan cat, the cat in the black hat, the robot and the background.
+- RIGHT part: use ONLY the MAN on the right: KIM'S ELDEST BROTHER (round metal glasses, wine-red jacket, navy vest). IGNORE the woman next to him.
+
+HOW TO TELL THE CHARACTERS APART:
+- HABIBA (the mother): adult chubby orange female cat, long wavy BLACK hair, BROWN eyes, black round glasses, GOLD forehead jewelry. In Shot 1 she wears her deep-RED velvet kaftan with gold embroidery. From Shot 2 she wears the modest Korean spa outfit: a loose short-sleeved ORANGE T-shirt and long loose ORANGE shorts, with a white towel folded on her head like little sheep ears (the classic Korean "sheep-head" towel). She keeps her glasses and her gold forehead jewel.
+- CHAKILITA (the narrator): adult female orange cat, long LIGHT-BROWN hair, GREEN eyes, round glasses, PINK sequined takchita the whole time (she is only visiting, she does not change). She speaks the FIRST and the LAST line.
+- KIM'S ELDEST BROTHER: adult male orange tabby cat, DARK-BROWN eyes, short dark hair with gray at the temples, thin round metal-framed glasses, wine-RED jogori jacket and dark NAVY vest, charcoal trousers. Calm, polite, kind. Speaks Korean only.
+- SPA GUESTS (background only, never speak): a few relaxed adult cats with GRAY, WHITE or BLACK fur (no orange fur, no glasses), all fully clothed in the same loose spa T-shirts and shorts, lying on mats or sitting.
+All main characters are ADULTS. Nobody is a child or a kitten.
+
+THE MOST IMPORTANT RULE — ONE SPEAKER PER SHOT: every line is spoken in its own CLOSE-UP that shows ONLY the speaker. The wide shots have NO dialogue at all; everyone keeps their mouth closed there.
+
+SPEAKING ORDER (exactly 4 lines, nobody else speaks):
+1) 0.2-2.7s   — CHAKILITA, solo close-up
+2) 4.1-5.5s   — KIM'S ELDEST BROTHER, solo close-up
+3) 8.1-9.8s   — HABIBA, solo close-up
+4) 11.8-14.8s — CHAKILITA, solo close-up
+
+LOCATIONS (family-friendly, everyone fully clothed at all times):
+- Shot 1: the warm wooden reception of a traditional Korean spa (jjimjilbang): soft warm lights, wooden shelves with neatly folded towels.
+- Shots 2-7: the large shared relaxation hall of the same spa, where families rest together in spa clothes: a warm wooden floor, thin mats, small wooden pillows, a cozy dome-shaped wooden sauna door in the background, warm calm lighting.
+NO signs, NO letters, NO numbers, NO logos anywhere.
+
+HOW TO SPEAK: Darija lines are written in Latin letters exactly as they must be pronounced; the Korean line in Korean with the pronunciation. Say every line from the FIRST word to the LAST word in this exact order; never reverse the word order. The English in brackets is only the meaning and must NOT be spoken.
+
+SHOT LIST:
+
+SHOT 1 — 0.0-2.8s — CLOSE-UP of CHAKILITA at the spa reception; behind her, slightly blurred, the brother politely hands Habiba (in her red kaftan) a folded orange spa outfit and gestures around with his paw.
+0.2-2.7s — CHAKILITA, looking straight at the camera with a playful smile:
+"KHU Kim JAB MA-ma t-RAY-yah f-s-SPA... w-LA-kin WASH GHA-di t-RAY-yah?!"
+[meaning: Kim's brother brought Mom to relax at the spa... but will she relax?!]
+
+SHOT 2 — 2.8-4.0s — WIDE, NO dialogue: in the relaxation hall, Habiba in her orange spa outfit with the sheep-head towel sits on a mat on the warm floor, a big handbag next to her. The brother sits nearby on another mat. Spa guests rest quietly around them.
+
+SHOT 3 — 4.0-5.8s — CLOSE-UP of KIM'S ELDEST BROTHER alone, smiling kindly:
+4.1-5.5s — BROTHER: "편하게 쉬세요!"
+[pronounced: pyeon-ha-ge swi-se-yo!]
+
+SHOT 4 — 5.8-8.0s — WIDE, NO dialogue: Habiba nods and smiles... then opens her big handbag and pulls out a shiny silver Moroccan teapot, small decorated tea glasses and a bunch of fresh mint, and proudly pours tea from high above into a glass. The brother's mouth falls open and his glasses slide down his nose; nearby spa guests lift their heads.
+
+SHOT 5 — 8.0-10.0s — CLOSE-UP of HABIBA alone (orange spa outfit, sheep-head towel, glasses, gold forehead jewel), holding the teapot proudly:
+8.1-9.8s — HABIBA: "r-RA-ha BLA a-TAY MA-shi RA-ha!"
+[meaning: Relaxing without tea is not relaxing!]
+
+SHOT 6 — 10.0-11.6s — WIDE, NO dialogue: Habiba offers a glass of mint tea to the brother; still stunned, he takes it with both paws. All the spa guests sit up and stare at them, curious.
+
+SHOT 7 — 11.6-15.0s — CLOSE-UP of CHAKILITA alone; the others are NOT in this shot:
+11.8-14.8s — CHAKILITA, looking straight at the camera with a calm, sarcastic smile:
+"HTA f-s-SPA... l-is-tir-KHA 'and MA-ma kay-HTAJ a-TAY!"
+[meaning: Even at the spa... Mom's way of relaxing needs tea!]
+14.8-15.0s: hold, short comic musical sting.
+
+Vertical 9:16, exactly 15 seconds, full frame with no black bars. Pixar-style 3D animated family comedy, calm spa atmosphere broken by clear visual comedy when the teapot comes out, accurate lip-sync, light comic music. No subtitles, captions, titles, logos, watermarks or on-screen text anywhere.
+
+LANGUAGE RULES: Habiba and Chakilita speak Moroccan Darija only. Kim's brother speaks Korean only; never make him speak Darija, Arabic or English. The spa guests never speak. Only the 4 lines above, no extra dialogue.
