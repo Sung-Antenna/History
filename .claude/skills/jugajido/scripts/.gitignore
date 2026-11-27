@@ -1,2 +1,3 @@
 .scan_state.json
 __pycache__/
+.macro_state.json
