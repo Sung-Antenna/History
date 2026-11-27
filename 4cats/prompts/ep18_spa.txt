@@ -2,14 +2,12 @@ NEW TASK: create a brand-new VIDEO from scratch (moving pictures AND sound toget
 
 Generate exactly ONE video from the prompt below. Do not write a script, do not research, do not review, do not create extra files. Follow the shot list EXACTLY, second by second.
 
-REFERENCE BOARD (not a scene, never shown): copy faces, hair and sizes EXACTLY.
-- LEFT part (tea party picture): use ONLY the two cats on the LEFT: CHAKILITA (pink kaftan, round glasses, light-brown hair) and HABIBA (red velvet kaftan, glasses, gold forehead jewel). IGNORE the cat in the black hat on the right (he is NOT in this episode), the teapot, the table and the background.
-- RIGHT part: use ONLY the MAN on the right: KIM'S ELDEST BROTHER (round metal glasses, gray temples, wine-red jacket, navy vest). IGNORE the woman next to him.
+REFERENCE PICTURE (not a scene, never shown): it shows the three characters of this episode. Copy their faces, hair, glasses, outfits, colors and sizes EXACTLY. From LEFT to RIGHT: CHAKILITA (pink kaftan), HABIBA (red velvet kaftan, gold forehead jewel), KIM'S ELDEST BROTHER (round metal glasses, gray hair, wine-red jacket with a navy vest). IGNORE the teapot, the table, the snacks, the pavilion and the lake: they are NOT in this video.
 
 HOW TO TELL THE CHARACTERS APART:
 - HABIBA (the mother): adult chubby orange female cat, long wavy BLACK hair, BROWN eyes, black round glasses, GOLD forehead jewelry. In Shot 1 she wears her deep-RED velvet kaftan with gold embroidery. From Shot 2 she wears the modest Korean spa outfit: a loose short-sleeved ORANGE T-shirt and long loose ORANGE shorts, with a white towel folded on her head like little sheep ears (the classic Korean "sheep-head" towel). She keeps her glasses and her gold forehead jewel.
 - CHAKILITA (the narrator): adult female orange cat, long LIGHT-BROWN hair, GREEN eyes, round glasses, PINK sequined takchita the whole time (she is only visiting, she does not change). She speaks the FIRST and the LAST line.
-- KIM'S ELDEST BROTHER: adult male orange tabby cat, DARK-BROWN eyes, short dark hair with gray at the temples, thin round metal-framed glasses, wine-RED jogori jacket and dark NAVY vest, charcoal trousers. Calm, polite, kind. Speaks Korean only.
+- KIM'S ELDEST BROTHER: adult male orange tabby cat, DARK-BROWN eyes, short dark-gray hair, thin round metal-framed glasses, wine-RED jogori jacket with a dark NAVY vest and a navy ribbon, navy trousers. Calm, polite, kind. Speaks Korean only.
 - SPA GUESTS (background only, never speak): a few relaxed adult cats with GRAY, WHITE or BLACK fur (no orange fur, no glasses), all fully clothed in the same loose spa T-shirts and shorts, lying on mats or sitting.
 All main characters are ADULTS. Nobody is a child or a kitten.
 
