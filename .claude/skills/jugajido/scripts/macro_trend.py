@@ -4,11 +4,12 @@
 사용자 해석 규칙 (2026-11-27):
   - 방향 지표: VIXM(VIX 중기선물 ETF) — 올라가면 나쁘다(변동성 확대 = 시장 급등락).
                HYG(하이일드 회사채 ETF) — 위험자산 지표. 해석은 SKILL.md 4-3-1 참고.
+               IEF(7~10년 국채 ETF) — 가격↓ = 10년물 금리↑ = 나스닥에 부담.
   - 안정 지표: USO(WTI 원유), UUP(달러 인덱스 ETF) — 펀더멘털이라 '적정선 유지'가 중요하다.
                방향보다 변동성이 커지는 것(급등·급락)이 나쁘다.
 
 사용:
-  python3 macro_trend.py                 # 기본 4종
+  python3 macro_trend.py                 # 기본 5종
   python3 macro_trend.py --symbols VIXM HYG
   python3 macro_trend.py --state .macro_state.json   # 기울기·변동성 상태가 바뀐 것만 CHANGE 로 표시
 Twelve Data 무료 한도(분당 8회) 때문에 요청 사이에 쉰다.
@@ -25,8 +26,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from jugajido_scan import fetch, ma_series  # noqa: E402
 
 TFS = (("월봉", "1month", 200), ("주봉", "1week", 300), ("일봉", "1day", 300))
-KIND = {"VIXM": "direction", "HYG": "direction", "USO": "stability", "UUP": "stability"}
-LABEL = {"VIXM": "VIX 변동성", "HYG": "하이일드 회사채", "USO": "WTI 유가", "UUP": "달러"}
+KIND = {"VIXM": "direction", "HYG": "direction", "IEF": "direction", "USO": "stability", "UUP": "stability"}
+LABEL = {"VIXM": "VIX 변동성", "HYG": "하이일드 회사채", "IEF": "미국 7~10년 국채(가격↓=금리↑)", "USO": "WTI 유가", "UUP": "달러"}
 
 
 def slope(ma, lag, flat=0.002):
@@ -63,7 +64,7 @@ def analyze(bars, daily=False):
 
 def main():
     p = argparse.ArgumentParser()
-    p.add_argument("--symbols", nargs="+", default=["VIXM", "HYG", "USO", "UUP"])
+    p.add_argument("--symbols", nargs="+", default=["VIXM", "HYG", "IEF", "USO", "UUP"])
     p.add_argument("--state")
     p.add_argument("--delay", type=float, default=8.0)
     a = p.parse_args()
