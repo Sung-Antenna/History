@@ -3,8 +3,8 @@ NEW TASK: create a brand-new VIDEO from scratch (moving pictures AND sound toget
 Generate exactly ONE video from the prompt below. Do not write a script, do not research, do not review, do not create extra files. Follow the shot list EXACTLY, second by second.
 
 REFERENCE BOARD (not a scene, never shown): copy faces, hair and sizes EXACTLY.
-- LEFT part: use ONLY the first two cats from the left: CHAKILITA (pink takchita) and HABIBA (red kaftan). IGNORE the green-kaftan cat, the cat in the black hat, the robot and the background.
-- RIGHT part: use ONLY the MAN on the right: KIM'S ELDEST BROTHER (round metal glasses, wine-red jacket, navy vest). IGNORE the woman next to him.
+- LEFT part (tea party picture): use ONLY the two cats on the LEFT: CHAKILITA (pink kaftan, round glasses, light-brown hair) and HABIBA (red velvet kaftan, glasses, gold forehead jewel). IGNORE the cat in the black hat on the right (he is NOT in this episode), the teapot, the table and the background.
+- RIGHT part: use ONLY the MAN on the right: KIM'S ELDEST BROTHER (round metal glasses, gray temples, wine-red jacket, navy vest). IGNORE the woman next to him.
 
 HOW TO TELL THE CHARACTERS APART:
 - HABIBA (the mother): adult chubby orange female cat, long wavy BLACK hair, BROWN eyes, black round glasses, GOLD forehead jewelry. In Shot 1 she wears her deep-RED velvet kaftan with gold embroidery. From Shot 2 she wears the modest Korean spa outfit: a loose short-sleeved ORANGE T-shirt and long loose ORANGE shorts, with a white towel folded on her head like little sheep ears (the classic Korean "sheep-head" towel). She keeps her glasses and her gold forehead jewel.
