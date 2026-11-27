@@ -1,0 +1,26 @@
+{
+  "number": 18,
+  "titleAr": "حبيبة والسبا الكوري!",
+  "titleKo": "하비바와 한국 찜질방!",
+  "video": "episodes/ep18.mp4",
+  "videoSeconds": 15.083,
+  "opening": "card",
+  "ending": true,
+  "nextTeaserAr": "",
+  "nextTeaserKo": "",
+  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
+  "cues": [
+    { "from": 0.2, "to": 3.95, "speaker": "chakilita",
+      "text": "أحضر أخو كيم أمّي لترتاح في السبا… لكن هل سترتاح؟!",
+      "translation": "킴의 형이 엄마를 찜질방에 쉬러 데려왔는데… 과연 쉴 수 있을까요?!" },
+    { "from": 4.5, "to": 5.75, "speaker": "brother",
+      "text": "편하게 쉬세요!",
+      "translation": "استريحي براحتك!" },
+    { "from": 8.5, "to": 10.55, "speaker": "habiba",
+      "text": "الراحة بلا شاي ليست راحة!",
+      "translation": "차 없는 휴식은 휴식이 아니야!" },
+    { "from": 12.4, "to": 14.65, "speaker": "chakilita",
+      "text": "حتى في السبا… راحة أمّي تحتاج إلى الشاي!",
+      "translation": "찜질방에서도… 엄마의 휴식엔 차가 필요해요!" }
+  ]
+}

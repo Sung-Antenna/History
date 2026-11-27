@@ -313,3 +313,6 @@ Manus 프롬프트용 영어 묘사:
 
 ### ✅ 외전 2 «الإصبع؟» / 손가락질? (완성, 10초)
 프롬프트 `prompts/gaijeon2_finger_part1.txt`(+part2). Manus가 1편 프롬프트로 10초 전체를 한 번에 만들어 줘서 2편 생성은 생략. 자막 `remotion/episodes/gaijeon2.json`(표준 아랍어+한국어, 대사가 아닌 상황 자막 포함).
+
+### ✅ 18화 «حبيبة والسبا الكوري!» / 하비바와 한국 찜질방! (완성)
+프롬프트 `prompts/ep18_spa.txt`, 참조 `reference/ep18_trio.png`, 자막 `remotion/episodes/ep18.json`(표준 아랍어+한국어), 화자 `brother`(أخو كيم / 큰형) 추가. 남은 흠: 0~2초 안내 데스크 위 현판에 엉터리 한자.
