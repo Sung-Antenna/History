@@ -1,21 +1,23 @@
 #!/usr/bin/env python3
-"""위험 지표(공포·유가·신용) 3종의 월봉·주봉·일봉 이평선 기울기를 매일 본다 (사용자 요청 2026-11-27).
+"""위험·펀더멘털 지표의 월봉·주봉·일봉 이평선 기울기와 변동성을 매일 본다 (사용자 요청 2026-11-27).
 
-기본 종목: VIXM(VIX 중기선물 ETF), USO(WTI 원유 ETF), HYG(하이일드 회사채 ETF).
-해석 방향:
-  - VIXM ↑ = 공포 확대(위험자산에 불리). ↓ = 공포 진정.
-  - HYG  ↓ = 신용 스트레스(하이일드 매도). ↑ = 신용 안정.
-  - USO  ↑ = 유가 상승(인플레 부담). ↓ = 유가 하락.
+사용자 해석 규칙 (2026-11-27):
+  - 방향 지표: VIXM(VIX 중기선물 ETF) — 올라가면 나쁘다(변동성 확대 = 시장 급등락).
+               HYG(하이일드 회사채 ETF) — 위험자산 지표. 해석은 SKILL.md 4-3-1 참고.
+  - 안정 지표: USO(WTI 원유), UUP(달러 인덱스 ETF) — 펀더멘털이라 '적정선 유지'가 중요하다.
+               방향보다 변동성이 커지는 것(급등·급락)이 나쁘다.
 
 사용:
-  python3 macro_trend.py                 # 기본 3종
+  python3 macro_trend.py                 # 기본 4종
   python3 macro_trend.py --symbols VIXM HYG
-  python3 macro_trend.py --state .macro_state.json   # 기울기 방향이 바뀐 것만 CHANGE 로 표시
+  python3 macro_trend.py --state .macro_state.json   # 기울기·변동성 상태가 바뀐 것만 CHANGE 로 표시
 Twelve Data 무료 한도(분당 8회) 때문에 요청 사이에 쉰다.
 """
 import argparse
 import json
+import math
 import os
+import statistics
 import sys
 import time
 
@@ -23,11 +25,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from jugajido_scan import fetch, ma_series  # noqa: E402
 
 TFS = (("월봉", "1month", 200), ("주봉", "1week", 300), ("일봉", "1day", 300))
-MEANING = {
-    "VIXM": {"up": "공포 확대", "down": "공포 진정"},
-    "HYG": {"up": "신용 안정", "down": "신용 스트레스"},
-    "USO": {"up": "유가 상승", "down": "유가 하락"},
-}
+KIND = {"VIXM": "direction", "HYG": "direction", "USO": "stability", "UUP": "stability"}
+LABEL = {"VIXM": "VIX 변동성", "HYG": "하이일드 회사채", "USO": "WTI 유가", "UUP": "달러"}
 
 
 def slope(ma, lag, flat=0.002):
@@ -38,23 +37,33 @@ def slope(ma, lag, flat=0.002):
     return ("↑" if ch > flat else "↓" if ch < -flat else "→"), ch
 
 
-def analyze(bars):
+def realized_vol(closes, n=20):
+    rets = [math.log(closes[i] / closes[i - 1]) for i in range(len(closes) - n, len(closes))]
+    return statistics.pstdev(rets) * math.sqrt(252)
+
+
+def analyze(bars, daily=False):
     closes = [b["c"] for b in bars]
     out = {"price": closes[-1], "time": bars[-1]["t"]}
     for n, lag in ((5, 1), (20, 3), (60, 3)):
         ma = ma_series(closes, n)
         d, ch = slope(ma, lag)
-        out[f"ma{n}"] = ma[-1]
-        out[f"s{n}"] = d
-        out[f"c{n}"] = ch
-    above = [n for n in (5, 20, 60) if out[f"ma{n}"] is not None and out["price"] > out[f"ma{n}"]]
-    out["above"] = above
+        out[f"ma{n}"], out[f"s{n}"], out[f"c{n}"] = ma[-1], d, ch
+    out["above"] = [n for n in (5, 20, 60) if out[f"ma{n}"] is not None and out["price"] > out[f"ma{n}"]]
+    if out["ma60"]:
+        out["gap60"] = out["price"] / out["ma60"] - 1  # 60선 이격도
+    if daily and len(closes) > 270:
+        now = realized_vol(closes)
+        hist = [realized_vol(closes[:k]) for k in range(len(closes) - 250, len(closes), 5)]
+        med = statistics.median(hist)
+        out["vol"], out["vol_med"] = now, med
+        out["vol_state"] = "확대" if now > med * 1.5 else "보통" if now > med * 0.7 else "축소"
     return out
 
 
 def main():
     p = argparse.ArgumentParser()
-    p.add_argument("--symbols", nargs="+", default=["VIXM", "USO", "HYG"])
+    p.add_argument("--symbols", nargs="+", default=["VIXM", "HYG", "USO", "UUP"])
     p.add_argument("--state")
     p.add_argument("--delay", type=float, default=8.0)
     a = p.parse_args()
@@ -65,7 +74,7 @@ def main():
             if not first:
                 time.sleep(a.delay)
             first = False
-            result[f"{sym} {tf}"] = analyze(fetch(sym, interval, size))
+            result[f"{sym} {tf}"] = analyze(fetch(sym, interval, size), daily=(tf == "일봉"))
 
     old = {}
     if a.state and os.path.exists(a.state):
@@ -73,21 +82,25 @@ def main():
             old = json.load(f)
     new_state = {}
 
-    print("위험 지표 기울기 (5선: 1봉 전 대비, 20·60선: 3봉 전 대비 / ↑상승 ↓하락 →횡보)\n")
+    print("위험·펀더멘털 지표 (5선: 1봉 전 대비, 20·60선: 3봉 전 대비 / ↑상승 ↓하락 →횡보)\n")
     for sym in a.symbols:
-        print(f"[{sym}]")
+        kind = KIND.get(sym, "direction")
+        print(f"[{sym} · {LABEL.get(sym, sym)} · {'방향 지표' if kind == 'direction' else '안정 지표(적정선 유지가 중요)'}]")
         for tf, _, _ in TFS:
             r = result[f"{sym} {tf}"]
             key = f"{sym} {tf}"
             sig = f"{r['s5']}{r['s20']}{r['s60'] or '-'}"
+            if r.get("vol_state"):
+                sig += f" 변동성{r['vol_state']}"
             new_state[key] = sig
             mark = "CHANGE " if a.state and old.get(key) and old[key] != sig else ""
-            m = MEANING.get(sym, {})
-            trend = m.get("up") if r["s20"] == "↑" else m.get("down") if r["s20"] == "↓" else "방향 탐색"
             c20 = f"{r['c20']*100:+.1f}%" if r["c20"] is not None else "-"
+            gap = f" | 60선 이격 {r['gap60']*100:+.1f}%" if r.get("gap60") is not None else ""
+            vol = (f" | 20일 변동성 {r['vol']*100:.0f}% (1년 중앙값 {r['vol_med']*100:.0f}%, {r['vol_state']})"
+                   if r.get("vol_state") else "")
             above = "/".join(map(str, r["above"])) or "없음"
             print(f"  {mark}{tf} {r['time'][:10]} 종가 {r['price']:.2f} | 5선{r['s5']} 20선{r['s20']}({c20}) "
-                  f"60선{r['s60'] or '-'} | 가격이 위에 있는 선: {above} | 20선 기준: {trend}")
+                  f"60선{r['s60'] or '-'} | 가격 위의 선: {above}{gap}{vol}")
         print()
 
     if a.state:
