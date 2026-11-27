@@ -1,0 +1,25 @@
+{
+  "number": 2,
+  "labelAr": "حلقة خاصة",
+  "labelKo": "외전",
+  "titleAr": "الإصبع؟",
+  "titleKo": "손가락질?",
+  "video": "episodes/gaijeon2.mp4",
+  "videoSeconds": 10.125,
+  "opening": "card",
+  "ending": true,
+  "nextTeaserAr": "",
+  "nextTeaserKo": "",
+  "subtitles": { "bottom": 430, "showSpeaker": true, "showTranslation": true },
+  "cues": [
+    { "from": 1.7, "to": 5.9, "speaker": "kim",
+      "text": "يأمر… وهو نائم!",
+      "translation": "자면서… 명령 중!" },
+    { "from": 6.85, "to": 8.4, "speaker": "zouitina",
+      "text": "حسنًا، حسنًا…",
+      "translation": "오케이, 오케이…" },
+    { "from": 9.0, "to": 10.1, "speaker": "robot",
+      "text": "وصلت العدوى…",
+      "translation": "전염됐다…" }
+  ]
+}

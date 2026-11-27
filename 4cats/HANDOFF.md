@@ -310,3 +310,6 @@ Manus 프롬프트용 영어 묘사:
 
 ### ✅ 17화 «حبيبة والكيمتشي الكوري!» / 하비바와 한국 김치! (완성)
 프롬프트 `prompts/ep17_kimchi.txt`, 보드 `reference/board_ep17.jpg`, 자막 `remotion/episodes/ep17.json`(표준 아랍어+한국어). 마지막 샤킬리타 장면은 입이 거의 움직이지 않지만 사용자 결정으로 그대로 사용.
+
+### ✅ 외전 2 «الإصبع؟» / 손가락질? (완성, 10초)
+프롬프트 `prompts/gaijeon2_finger_part1.txt`(+part2). Manus가 1편 프롬프트로 10초 전체를 한 번에 만들어 줘서 2편 생성은 생략. 자막 `remotion/episodes/gaijeon2.json`(표준 아랍어+한국어, 대사가 아닌 상황 자막 포함).
